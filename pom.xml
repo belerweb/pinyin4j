@@ -1,0 +1,120 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>org.sonatype.oss</groupId>
+        <artifactId>oss-parent</artifactId>
+        <version>7</version>
+    </parent>
+
+    <groupId>com.belerweb</groupId>
+    <artifactId>pinyin4j</artifactId>
+    <version>2.5.0</version>
+
+    <name>Chinese to Pinyin</name>
+    <description>Support Chinese character (both Simplified and Tranditional) to most popular Pinyin systems, including Hanyu Pinyin, Tongyong Pinyin, Wade-Giles, MPS2, Yale and Gwoyeu Romatzyh. Support multiple pronounciations and customized output.</description>
+    <url>https://github.com/belerweb/pinyin4j</url>
+
+
+    <licenses>
+        <license>
+            <name>BSD</name>
+            <url>http://opensource.org/licenses/bsd-license.html</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <connection>scm:git:https://github.com/belerweb/pinyin4j.git</connection>
+        <developerConnection>scm:git:https://github.com/belerweb/pinyin4j.git</developerConnection>
+        <url>https://github.com/belerweb/pinyin4j.git</url>
+    </scm>
+    <issueManagement>
+        <system>Github Issue</system>
+        <url>https://github.com/belerweb/pinyin4j/issues</url>
+    </issueManagement>
+    <developers>
+        <developer>
+            <id>belerweb</id>
+            <name>Tangjun He</name>
+            <email>belerweb@gmail.com</email>
+            <url>https://github.com/belerweb</url>
+        </developer>
+    </developers>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.6</maven.compiler.source>
+        <maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
+    </properties>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.googlecode.maven-java-formatter-plugin</groupId>
+                <artifactId>maven-java-formatter-plugin</artifactId>
+                <version>0.3.1</version>
+                <configuration>
+                    <compilerCompliance>${maven.compiler.source}</compilerCompliance>
+                    <compilerSource>${maven.compiler.source}</compilerSource>
+                    <compilerTargetPlatform>${maven.compiler.source}</compilerTargetPlatform>
+                    <configFile>${project.basedir}/eclipse-java-google-style.xml</configFile>
+                    <lineEnding>LF</lineEnding>
+                </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>format</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.eclipse.m2e</groupId>
+                    <artifactId>lifecycle-mapping</artifactId>
+                    <version>1.0.0</version>
+                    <configuration>
+                        <lifecycleMappingMetadata>
+                            <pluginExecutions>
+                                <pluginExecution>
+                                    <pluginExecutionFilter>
+                                        <groupId>com.googlecode.maven-java-formatter-plugin</groupId>
+                                        <artifactId>maven-java-formatter-plugin</artifactId>
+                                        <versionRange>[0.3.1]</versionRange>
+                                        <goals>
+                                            <goal>format</goal>
+                                        </goals>
+                                    </pluginExecutionFilter>
+                                    <action>
+                                        <execute>
+                                            <runOnIncremental>true</runOnIncremental>
+                                        </execute>
+                                    </action>
+                                </pluginExecution>
+                                <pluginExecution>
+                                    <pluginExecutionFilter>
+                                        <groupId>org.apache.maven.plugins</groupId>
+                                        <artifactId>maven-enforcer-plugin</artifactId>
+                                        <versionRange>[1.0,)</versionRange>
+                                        <goals>
+                                            <goal>enforce</goal>
+                                        </goals>
+                                    </pluginExecutionFilter>
+                                    <action>
+                                        <execute />
+                                    </action>
+                                </pluginExecution>
+                            </pluginExecutions>
+                        </lifecycleMappingMetadata>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+
+</project>
