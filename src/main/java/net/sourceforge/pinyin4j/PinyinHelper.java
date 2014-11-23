@@ -26,6 +26,9 @@ import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombi
  * @author Li Min (xmlerlimin@gmail.com)
  */
 public class PinyinHelper {
+
+    private static final String[] ARR_EMPTY = {};
+    private static final String EMPTY = "";
   /**
    * Get all unformmatted Hanyu Pinyin presentations of a single Chinese
    * character (both Simplified and Tranditional)
@@ -73,14 +76,14 @@ public class PinyinHelper {
    *            describes the desired format of returned Hanyu Pinyin String
    * 
    * @return a String array contains all Hanyu Pinyin presentations with tone
-   *         numbers; return null for non-Chinese character
-   * 
+   *         numbers; return empty string for non-Chinese character
+   *
    * @throws BadHanyuPinyinOutputFormatCombination
    *             if certain combination of output formats happens
-   * 
+   *
    * @see HanyuPinyinOutputFormat
    * @see BadHanyuPinyinOutputFormatCombination
-   * 
+   *
    */
   static public String[] toHanyuPinyinStringArray(char ch, HanyuPinyinOutputFormat outputFormat)
       throws BadHanyuPinyinOutputFormatCombination {
@@ -90,7 +93,7 @@ public class PinyinHelper {
   /**
    * Return the formatted Hanyu Pinyin representations of the given Chinese
    * character (both in Simplified and Tranditional) in array format.
-   * 
+   *
    * @param ch
    *            the given Chinese character
    * @param outputFormat
@@ -111,12 +114,12 @@ public class PinyinHelper {
       return pinyinStrArray;
 
     } else
-      return null;
+      return ARR_EMPTY;
   }
 
   /**
    * Delegate function
-   * 
+   *
    * @param ch
    *            the given Chinese character
    * @return unformatted Hanyu Pinyin strings; null if the record is not found
@@ -128,15 +131,15 @@ public class PinyinHelper {
   /**
    * Get all unformmatted Tongyong Pinyin presentations of a single Chinese
    * character (both Simplified and Tranditional)
-   * 
+   *
    * @param ch
    *            the given Chinese character
-   * 
+   *
    * @return a String array contains all unformmatted Tongyong Pinyin
    *         presentations with tone numbers; null for non-Chinese character
-   * 
+   *
    * @see #toHanyuPinyinStringArray(char)
-   * 
+   *
    */
   static public String[] toTongyongPinyinStringArray(char ch) {
     return convertToTargetPinyinStringArray(ch, PinyinRomanizationType.TONGYONG_PINYIN);
@@ -145,15 +148,15 @@ public class PinyinHelper {
   /**
    * Get all unformmatted Wade-Giles presentations of a single Chinese
    * character (both Simplified and Tranditional)
-   * 
+   *
    * @param ch
    *            the given Chinese character
-   * 
+   *
    * @return a String array contains all unformmatted Wade-Giles presentations
    *         with tone numbers; null for non-Chinese character
-   * 
+   *
    * @see #toHanyuPinyinStringArray(char)
-   * 
+   *
    */
   static public String[] toWadeGilesPinyinStringArray(char ch) {
     return convertToTargetPinyinStringArray(ch, PinyinRomanizationType.WADEGILES_PINYIN);
@@ -162,16 +165,16 @@ public class PinyinHelper {
   /**
    * Get all unformmatted MPS2 (Mandarin Phonetic Symbols 2) presentations of
    * a single Chinese character (both Simplified and Tranditional)
-   * 
+   *
    * @param ch
    *            the given Chinese character
-   * 
+   *
    * @return a String array contains all unformmatted MPS2 (Mandarin Phonetic
    *         Symbols 2) presentations with tone numbers; null for non-Chinese
    *         character
-   * 
+   *
    * @see #toHanyuPinyinStringArray(char)
-   * 
+   *
    */
   static public String[] toMPS2PinyinStringArray(char ch) {
     return convertToTargetPinyinStringArray(ch, PinyinRomanizationType.MPS2_PINYIN);
@@ -180,15 +183,15 @@ public class PinyinHelper {
   /**
    * Get all unformmatted Yale Pinyin presentations of a single Chinese
    * character (both Simplified and Tranditional)
-   * 
+   *
    * @param ch
    *            the given Chinese character
-   * 
+   *
    * @return a String array contains all unformmatted Yale Pinyin
    *         presentations with tone numbers; null for non-Chinese character
-   * 
+   *
    * @see #toHanyuPinyinStringArray(char)
-   * 
+   *
    */
   static public String[] toYalePinyinStringArray(char ch) {
     return convertToTargetPinyinStringArray(ch, PinyinRomanizationType.YALE_PINYIN);
@@ -203,7 +206,7 @@ public class PinyinHelper {
    * @return string representations of target Chinese Romanization system
    *         corresponding to the given Chinese character in array format;
    *         null if error happens
-   * 
+   *
    * @see PinyinRomanizationType
    */
   private static String[] convertToTargetPinyinStringArray(char ch,
@@ -222,21 +225,21 @@ public class PinyinHelper {
       return targetPinyinStringArray;
 
     } else
-      return null;
+      return ARR_EMPTY;
   }
 
   /**
    * Get all unformmatted Gwoyeu Romatzyh presentations of a single Chinese
    * character (both Simplified and Tranditional)
-   * 
+   *
    * @param ch
    *            the given Chinese character
-   * 
+   *
    * @return a String array contains all unformmatted Gwoyeu Romatzyh
    *         presentations with tone numbers; null for non-Chinese character
-   * 
+   *
    * @see #toHanyuPinyinStringArray(char)
-   * 
+   *
    */
   static public String[] toGwoyeuRomatzyhStringArray(char ch) {
     return convertToGwoyeuRomatzyhStringArray(ch);
@@ -245,10 +248,10 @@ public class PinyinHelper {
   /**
    * @param ch
    *            the given Chinese character
-   * 
+   *
    * @return Gwoyeu Romatzyh string representations corresponding to the given
    *         Chinese character in array format; null if error happens
-   * 
+   *
    * @see PinyinRomanizationType
    */
   private static String[] convertToGwoyeuRomatzyhStringArray(char ch) {
@@ -265,19 +268,19 @@ public class PinyinHelper {
       return targetPinyinStringArray;
 
     } else
-      return null;
+      return ARR_EMPTY;
   }
 
   /**
    * Get a string which all Chinese characters are replaced by corresponding
    * main (first) Hanyu Pinyin representation.
-   * 
+   *
    * <p>
    * <b>Special Note</b>: If the return contains "none0", that means that
    * Chinese character is in Unicode CJK talbe, however, it has not
    * pronounciation in Chinese. <b> This interface will be removed in next
    * release. </b>
-   * 
+   *
    * @param str
    *            A given string contains Chinese characters
    * @param outputFormat
@@ -289,7 +292,7 @@ public class PinyinHelper {
    * @return a String identical to the original one but all recognizable
    *         Chinese characters are converted into main (first) Hanyu Pinyin
    *         representation
-   * 
+   *
    * @deprecated DO NOT use it again because the first retrived pinyin string
    *             may be a wrong pronouciation in a certain sentence context.
    *             <b> This interface will be removed in next release. </b>
@@ -297,7 +300,7 @@ public class PinyinHelper {
   static public String toHanyuPinyinString(String str, HanyuPinyinOutputFormat outputFormat,
       String seperater) throws BadHanyuPinyinOutputFormatCombination {
 
-    StringBuffer resultPinyinStrBuf = new StringBuffer();
+    StringBuilder resultPinyinStrBuf = new StringBuilder();
 
     for (int i = 0; i < str.length(); i++) {
       String mainPinyinStrOfChar = getFirstHanyuPinyinString(str.charAt(i), outputFormat);
@@ -318,14 +321,14 @@ public class PinyinHelper {
   /**
    * Get the first Hanyu Pinyin of a Chinese character <b> This function will
    * be removed in next release. </b>
-   * 
+   *
    * @param ch
    *            The given Unicode character
    * @param outputFormat
    *            Describes the desired format of returned Hanyu Pinyin string
    * @return Return the first Hanyu Pinyin of given Chinese character; return
    *         null if the input is not a Chinese character
-   * 
+   *
    * @deprecated DO NOT use it again because the first retrived pinyin string
    *             may be a wrong pronouciation in a certain sentence context.
    *             <b> This function will be removed in next release. </b>
@@ -337,7 +340,7 @@ public class PinyinHelper {
     if ((null != pinyinStrArray) && (pinyinStrArray.length > 0)) {
       return pinyinStrArray[0];
     } else {
-      return null;
+      return EMPTY;
     }
   }
 
