@@ -56,9 +56,8 @@ class GwoyeuRomatzyhTranslator {
         String xpathQuery2 =
             "../" + PinyinRomanizationType.GWOYEU_ROMATZYH.getTagName()
                 + tones[Integer.parseInt(toneNumberStr) - 1] + "/text()";
-        String targetPinyinStrWithoutToneNumber = hanyuNode.xpathSelectString(xpathQuery2);
 
-        gwoyeuStr = targetPinyinStrWithoutToneNumber;
+          gwoyeuStr = hanyuNode.xpathSelectString(xpathQuery2);
       }
     } catch (ParseException e) {
       e.printStackTrace();
