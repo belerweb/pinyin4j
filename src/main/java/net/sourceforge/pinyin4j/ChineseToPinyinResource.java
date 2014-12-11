@@ -108,11 +108,8 @@ class ChineseToPinyinResource {
   private boolean isValidRecord(String record) {
     final String noneStr = "(none0)";
 
-    if ((null != record) && !record.equals(noneStr) && record.startsWith(Field.LEFT_BRACKET)
-        && record.endsWith(Field.RIGHT_BRACKET)) {
-      return true;
-    } else
-      return false;
+      return (null != record) && !record.equals(noneStr) && record.startsWith(Field.LEFT_BRACKET)
+              && record.endsWith(Field.RIGHT_BRACKET);
   }
 
   /**
