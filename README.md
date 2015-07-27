@@ -12,3 +12,6 @@ Download the jar via maven:
     <version>2.5.0</version>
 </dependency>
 ```
+
+### QQ Group ###
+QQ群：479540440
