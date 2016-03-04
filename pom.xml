@@ -42,6 +42,12 @@
             <email>belerweb@gmail.com</email>
             <url>https://github.com/belerweb</url>
         </developer>
+        <developer>
+            <id>obiteaaron</id>
+            <name>ObiteArron</name>
+            <email>obiteaaron@gmail.com</email>
+            <url>https://github.com/obiteaaron</url>
+        </developer>
     </developers>
 
     <properties>
