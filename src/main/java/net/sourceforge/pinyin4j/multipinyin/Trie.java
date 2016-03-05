@@ -71,8 +71,6 @@ public class Trie extends Hashtable<String, Trie> {
             bufferedReader = new BufferedReader(inputStreamReader);
             String s;
             while ((s = bufferedReader.readLine()) != null) {
-                if (s.startsWith("长春"))
-                    System.out.println("");
                 String[] keyAndValue = s.split(" ");
                 if (keyAndValue.length != 2)
                     continue;
@@ -124,7 +122,7 @@ public class Trie extends Hashtable<String, Trie> {
      */
     public void loadMultiPinyinExtend() throws IOException {
         String path = MultiPinyinConfig.multiPinyinPath;
-        if(path!=null) {
+        if (path != null) {
             File userMultiPinyinFile = new File(path);
             if (userMultiPinyinFile.exists()) {
                 loadMultiPinyin(new FileInputStream(userMultiPinyinFile));
