@@ -1,17 +1,12 @@
 multi pinyin4j (mpinyin4j) based on pinyin4j
 ========
 
-A copy of http://sourceforge.net/projects/pinyin4j, then deploy it to maven central repository.
+Forked from https://github.com/belerweb/pinyin4j, then add multi pinyin identification.
+
+在pinyin4j的基础上添加了多音字识别，带近一万个多音词，但是这远远不够，所以用户可设置外挂词库	
 
 ### Download ###
-Download the jar via maven:
-```xml
-<dependency>
-    <groupId>com.belerweb</groupId>
-    <artifactId>pinyin4j</artifactId>
-    <version>2.5.0</version>
-</dependency>
-```
+
 
 #外挂多音词库
 

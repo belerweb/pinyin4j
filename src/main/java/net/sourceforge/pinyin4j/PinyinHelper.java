@@ -249,12 +249,13 @@ public class PinyinHelper {
      * @param separate     The string is appended after a Chinese character (excluding
      *                     the last Chinese character at the end of sentence). <b>Note!
      *                     Separate will not appear after a non-Chinese character</b>
+     * @param retain       Retain the characters that cannot be converted into pinyin characters
      * @return a String identical to the original one but all recognizable
      * Chinese characters are converted into main (first) Hanyu Pinyin
      * representation
      */
     static public String toHanYuPinyinString(String str, HanyuPinyinOutputFormat outputFormat,
-                                             String separate) throws BadHanyuPinyinOutputFormatCombination {
+                                             String separate, boolean retain) throws BadHanyuPinyinOutputFormatCombination {
         ChineseToPinyinResource resource = ChineseToPinyinResource.getInstance();
         StringBuilder resultPinyinStrBuf = new StringBuilder();
 
@@ -284,18 +285,25 @@ public class PinyinHelper {
             }
             while (currentTrie != null);
 
-            String[] pinyinStrArray = resource.parsePinyinString(result);
-            if (pinyinStrArray != null)
-                for (int j = 0; j < pinyinStrArray.length; j++) {
-                    resultPinyinStrBuf.append(PinyinFormatter.formatHanyuPinyin(pinyinStrArray[j], outputFormat));
-                    if (i == success)
-                        break;
+            if (result == null) {//如果在前缀树中没有匹配到，那么它就不能转换为拼音，直接输出或者去掉
+                if (retain) resultPinyinStrBuf.append(chars[i]);
+            } else {
+                String[] pinyinStrArray = resource.parsePinyinString(result);
+                if (pinyinStrArray != null) {
+                    for (int j = 0; j < pinyinStrArray.length; j++) {
+                        resultPinyinStrBuf.append(PinyinFormatter.formatHanyuPinyin(pinyinStrArray[j], outputFormat));
+                        if (current < chars.length) {
+                            resultPinyinStrBuf.append(separate);
+                        }
+                        if (i == success)
+                            break;
+                    }
                 }
+            }
             i = success;
         }
 
         return resultPinyinStrBuf.toString();
-
     }
 
     // ! Hidden constructor
