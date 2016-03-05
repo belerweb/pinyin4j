@@ -9,8 +9,8 @@
         <version>7</version>
     </parent>
 
-    <groupId>com.belerweb</groupId>
-    <artifactId>pinyin4j</artifactId>
+    <groupId>com.obiteaaron</groupId>
+    <artifactId>pinyin4j-multi</artifactId>
     <version>2.5.0</version>
 
     <name>Chinese to Pinyin</name>
@@ -131,5 +131,12 @@
             </plugins>
         </pluginManagement>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>releases</id>
+            <url>http://127.0.0.1:8081/nexus/content/repositories/releases/</url>
+        </repository>
+    </distributionManagement>
 
 </project>
