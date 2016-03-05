@@ -1,4 +1,4 @@
-pinyin4j
+multi pinyin4j (mpinyin4j) based on pinyin4j
 ========
 
 A copy of http://sourceforge.net/projects/pinyin4j, then deploy it to maven central repository.
@@ -12,9 +12,6 @@ Download the jar via maven:
     <version>2.5.0</version>
 </dependency>
 ```
-
-### QQ Group ###
-QQ群：479540440
 
 #外挂多音词库
 
