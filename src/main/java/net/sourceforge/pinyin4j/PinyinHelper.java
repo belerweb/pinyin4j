@@ -1,15 +1,15 @@
 /**
  * This file is part of pinyin4j (http://sourceforge.net/projects/pinyin4j/) and distributed under
  * GNU GENERAL PUBLIC LICENSE (GPL).
- * <p/>
+ * <p>
  * pinyin4j is free software; you can redistribute it and/or modify it under the terms of the GNU
  * General Public License as published by the Free Software Foundation; either version 2 of the
  * License, or (at your option) any later version.
- * <p/>
+ * <p>
  * pinyin4j is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
  * even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
  * General Public License for more details.
- * <p/>
+ * <p>
  * You should have received a copy of the GNU General Public License along with pinyin4j.
  */
 
@@ -34,14 +34,14 @@ public class PinyinHelper {
     /**
      * Get all unformmatted Hanyu Pinyin presentations of a single Chinese
      * character (both Simplified and Tranditional)
-     * <p/>
-     * <p/>
+     * <p>
+     * <p>
      * For example, <br/> If the input is '间', the return will be an array with
      * two Hanyu Pinyin strings: <br/> "jian1" <br/> "jian4" <br/> <br/> If the
      * input is '李', the return will be an array with single Hanyu Pinyin
      * string: <br/> "li3"
-     * <p/>
-     * <p/>
+     * <p>
+     * <p>
      * <b>Special Note</b>: If the return is "none0", that means the input
      * Chinese character exists in Unicode CJK talbe, however, it has no
      * pronounciation in Chinese
@@ -57,14 +57,14 @@ public class PinyinHelper {
     /**
      * Get all Hanyu Pinyin presentations of a single Chinese character (both
      * Simplified and Tranditional)
-     * <p/>
-     * <p/>
+     * <p>
+     * <p>
      * For example, <br/> If the input is '间', the return will be an array with
      * two Hanyu Pinyin strings: <br/> "jian1" <br/> "jian4" <br/> <br/> If the
      * input is '李', the return will be an array with single Hanyu Pinyin
      * string: <br/> "li3"
-     * <p/>
-     * <p/>
+     * <p>
+     * <p>
      * <b>Special Note</b>: If the return is "none0", that means the input
      * Chinese character is in Unicode CJK talbe, however, it has no
      * pronounciation in Chinese
@@ -237,8 +237,8 @@ public class PinyinHelper {
     /**
      * Get a string which all Chinese characters are replaced by corresponding
      * main (first) Hanyu Pinyin representation.
-     * <p/>
-     * <p/>
+     * <p>
+     * <p>
      * <b>Special Note</b>: If the return contains "none0", that means that
      * Chinese character is in Unicode CJK talbe, however, it has not
      * pronounciation in Chinese. <b> This interface will be removed in next
@@ -292,7 +292,7 @@ public class PinyinHelper {
                 if (pinyinStrArray != null) {
                     for (int j = 0; j < pinyinStrArray.length; j++) {
                         resultPinyinStrBuf.append(PinyinFormatter.formatHanyuPinyin(pinyinStrArray[j], outputFormat));
-                        if (current < chars.length) {
+                        if (current < chars.length || (j < pinyinStrArray.length - 1 && i != success)) {//不是最后一个,(也不是拼音的最后一个,并且不是最后匹配成功的)
                             resultPinyinStrBuf.append(separate);
                         }
                         if (i == success)

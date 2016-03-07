@@ -7,11 +7,13 @@ import java.util.Hashtable;
  * Created by 刘一波 on 16/3/4.
  * E-Mail:yibo.liu@tqmall.com
  */
-public class Trie extends Hashtable<String, Trie> {
+public class Trie {
 
-    private String pinyin;
+    private Hashtable<String, Trie> values = new Hashtable<String, Trie>();//本节点包含的值
 
-    private Trie nextTire;
+    private String pinyin;//本节点的拼音
+
+    private Trie nextTire;//下一个节点,也就是匹配下一个字符
 
     public String getPinyin() {
         return pinyin;
@@ -32,7 +34,7 @@ public class Trie extends Hashtable<String, Trie> {
     /**
      * 加载拼音
      *
-     * @param inStream
+     * @param inStream 拼音文件输入流
      * @throws IOException
      */
     public synchronized void load(InputStream inStream) throws IOException {
@@ -61,7 +63,7 @@ public class Trie extends Hashtable<String, Trie> {
     /**
      * 加载多音字拼音词典
      *
-     * @param inStream
+     * @param inStream 拼音文件输入流
      */
     public synchronized void loadMultiPinyin(InputStream inStream) throws IOException {
         BufferedReader bufferedReader = null;
@@ -128,5 +130,13 @@ public class Trie extends Hashtable<String, Trie> {
                 loadMultiPinyin(new FileInputStream(userMultiPinyinFile));
             }
         }
+    }
+
+    public Trie get(String hexString) {
+        return values.get(hexString);
+    }
+
+    public void put(String s, Trie trie) {
+        values.put(s, trie);
     }
 }
