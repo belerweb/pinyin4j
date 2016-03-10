@@ -1,5 +1,5 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
 
@@ -9,9 +9,9 @@
         <version>7</version>
     </parent>
 
-    <groupId>com.obiteaaron</groupId>
-    <artifactId>pinyin4j-multi</artifactId>
-    <version>1.0.0</version>
+    <groupId>com.belerweb</groupId>
+    <artifactId>pinyin4j</artifactId>
+    <version>2.5.1</version>
 
     <name>Chinese to Pinyin</name>
     <description>Support Chinese character (both Simplified and Tranditional) to most popular Pinyin systems, including Hanyu Pinyin, Tongyong Pinyin, Wade-Giles, MPS2, Yale and Gwoyeu Romatzyh. Support multiple pronounciations and customized output.</description>
@@ -44,7 +44,7 @@
         </developer>
         <developer>
             <id>obiteaaron</id>
-            <name>ObiteArron</name>
+            <name>ObiteAaron</name>
             <email>obiteaaron@gmail.com</email>
             <url>https://github.com/obiteaaron</url>
         </developer>
@@ -131,12 +131,5 @@
             </plugins>
         </pluginManagement>
     </build>
-
-    <distributionManagement>
-        <repository>
-            <id>releases</id>
-            <url>http://127.0.0.1:8081/nexus/content/repositories/releases/</url>
-        </repository>
-    </distributionManagement>
 
 </project>
