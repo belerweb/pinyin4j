@@ -16856,7 +16856,7 @@
 8FD6 (ta4)
 8FD7 (e2)
 8FD8 (hai2,huan2)
-8FD9 (zhei4,zhe4)
+8FD9 (zhe4,zhei4)
 8FDA (none0)
 8FDB (jin4)
 8FDC (yuan3)
