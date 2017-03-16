@@ -37,6 +37,8 @@ public class Q extends TestCase {
         System.out.println(PinyinHelper.toHanYuPinyinString("长春..", outputFormat, ",", true));
         System.out.println(PinyinHelper.toHanYuPinyinString("长春不老/", outputFormat, ",", true));
         System.out.println(PinyinHelper.toHanYuPinyinString("刘一波", outputFormat, ",", false));
+        System.out.println(PinyinHelper.toHanYuPinyinString("一日千里", outputFormat, ",", true));
+        System.out.println(PinyinHelper.toHanYuPinyinString("哇哈ho", outputFormat, ",", true));
     }
 
     public void testMore() throws Exception {

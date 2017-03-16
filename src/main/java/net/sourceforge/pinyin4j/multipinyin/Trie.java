@@ -128,6 +128,11 @@ public class Trie {
             File userMultiPinyinFile = new File(path);
             if (userMultiPinyinFile.exists()) {
                 loadMultiPinyin(new FileInputStream(userMultiPinyinFile));
+            } else {
+                InputStream resourceAsStream = getClass().getResourceAsStream(path);
+                if (resourceAsStream != null) {
+                    loadMultiPinyin(new BufferedInputStream(resourceAsStream));
+                }
             }
         }
     }
