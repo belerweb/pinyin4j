@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0"  encoding="UTF-8" ?>
 <pinyin_mapping>
     <item>
         <Hanyu>a</Hanyu>
@@ -6,6 +6,7 @@
         <MPSII>a</MPSII>
         <Yale>a</Yale>
         <Tongyong>a</Tongyong>
+        <Phonetic>ㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>ai</Hanyu>
@@ -13,6 +14,7 @@
         <MPSII>ai</MPSII>
         <Yale>ai</Yale>
         <Tongyong>ai</Tongyong>
+        <Phonetic>ㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>an</Hanyu>
@@ -20,6 +22,7 @@
         <MPSII>an</MPSII>
         <Yale>an</Yale>
         <Tongyong>an</Tongyong>
+        <Phonetic>ㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>ang</Hanyu>
@@ -27,6 +30,7 @@
         <MPSII>ang</MPSII>
         <Yale>ang</Yale>
         <Tongyong>ang</Tongyong>
+        <Phonetic>ㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>ao</Hanyu>
@@ -34,6 +38,7 @@
         <MPSII>au</MPSII>
         <Yale>au</Yale>
         <Tongyong>ao</Tongyong>
+        <Phonetic>ㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>ba</Hanyu>
@@ -41,6 +46,7 @@
         <MPSII>ba</MPSII>
         <Yale>ba</Yale>
         <Tongyong>ba</Tongyong>
+        <Phonetic>ㄅㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>bai</Hanyu>
@@ -48,6 +54,7 @@
         <MPSII>bai</MPSII>
         <Yale>bai</Yale>
         <Tongyong>bai</Tongyong>
+        <Phonetic>ㄅㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>ban</Hanyu>
@@ -55,6 +62,7 @@
         <MPSII>ban</MPSII>
         <Yale>ban</Yale>
         <Tongyong>ban</Tongyong>
+        <Phonetic>ㄅㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>bang</Hanyu>
@@ -62,6 +70,7 @@
         <MPSII>bang</MPSII>
         <Yale>bang</Yale>
         <Tongyong>bang</Tongyong>
+        <Phonetic>ㄅㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>bao</Hanyu>
@@ -69,6 +78,7 @@
         <MPSII>bau</MPSII>
         <Yale>bau</Yale>
         <Tongyong>bao</Tongyong>
+        <Phonetic>ㄅㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>bei</Hanyu>
@@ -76,6 +86,7 @@
         <MPSII>bei</MPSII>
         <Yale>bei</Yale>
         <Tongyong>bei</Tongyong>
+        <Phonetic>ㄅㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>ben</Hanyu>
@@ -83,6 +94,7 @@
         <MPSII>ben</MPSII>
         <Yale>ben</Yale>
         <Tongyong>ben</Tongyong>
+        <Phonetic>ㄅㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>beng</Hanyu>
@@ -90,6 +102,7 @@
         <MPSII>beng</MPSII>
         <Yale>beng</Yale>
         <Tongyong>beng</Tongyong>
+        <Phonetic>ㄅㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>bi</Hanyu>
@@ -97,6 +110,7 @@
         <MPSII>bi</MPSII>
         <Yale>bi</Yale>
         <Tongyong>bi</Tongyong>
+        <Phonetic>ㄅㄧ</Phonetic>
     </item>
     <item>
         <Hanyu>bian</Hanyu>
@@ -104,6 +118,7 @@
         <MPSII>bian</MPSII>
         <Yale>byan</Yale>
         <Tongyong>bian</Tongyong>
+        <Phonetic>ㄅㄧㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>biao</Hanyu>
@@ -111,6 +126,7 @@
         <MPSII>biau</MPSII>
         <Yale>byau</Yale>
         <Tongyong>biao</Tongyong>
+        <Phonetic>ㄅㄧㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>bie</Hanyu>
@@ -118,6 +134,7 @@
         <MPSII>bie</MPSII>
         <Yale>bye</Yale>
         <Tongyong>bie</Tongyong>
+        <Phonetic>ㄅㄧㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>bin</Hanyu>
@@ -125,6 +142,7 @@
         <MPSII>bin</MPSII>
         <Yale>bin</Yale>
         <Tongyong>bin</Tongyong>
+        <Phonetic>ㄅㄧㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>bing</Hanyu>
@@ -132,6 +150,7 @@
         <MPSII>bing</MPSII>
         <Yale>bing</Yale>
         <Tongyong>bing</Tongyong>
+        <Phonetic>ㄅㄧㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>bo</Hanyu>
@@ -139,6 +158,7 @@
         <MPSII>bo</MPSII>
         <Yale>bwo</Yale>
         <Tongyong>bo</Tongyong>
+        <Phonetic>ㄅㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>bu</Hanyu>
@@ -146,6 +166,7 @@
         <MPSII>bu</MPSII>
         <Yale>bu</Yale>
         <Tongyong>bu</Tongyong>
+        <Phonetic>ㄅㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>ca</Hanyu>
@@ -153,6 +174,7 @@
         <MPSII>tsa</MPSII>
         <Yale>tsa</Yale>
         <Tongyong>ca</Tongyong>
+        <Phonetic>ㄘㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>cai</Hanyu>
@@ -160,6 +182,7 @@
         <MPSII>tsai</MPSII>
         <Yale>tsai</Yale>
         <Tongyong>cai</Tongyong>
+        <Phonetic>ㄘㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>can</Hanyu>
@@ -167,6 +190,7 @@
         <MPSII>tsan</MPSII>
         <Yale>tsan</Yale>
         <Tongyong>can</Tongyong>
+        <Phonetic>ㄘㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>cang</Hanyu>
@@ -174,6 +198,7 @@
         <MPSII>tsang</MPSII>
         <Yale>tsang</Yale>
         <Tongyong>cang</Tongyong>
+        <Phonetic>ㄘㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>cao</Hanyu>
@@ -181,6 +206,7 @@
         <MPSII>tsau</MPSII>
         <Yale>tsau</Yale>
         <Tongyong>cao</Tongyong>
+        <Phonetic>ㄘㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>ce</Hanyu>
@@ -188,6 +214,7 @@
         <MPSII>tse</MPSII>
         <Yale>tse</Yale>
         <Tongyong>ce</Tongyong>
+        <Phonetic>ㄘㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>cen</Hanyu>
@@ -195,6 +222,7 @@
         <MPSII>tsen</MPSII>
         <Yale>tsen</Yale>
         <Tongyong>cen</Tongyong>
+        <Phonetic>ㄘㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>ceng</Hanyu>
@@ -202,6 +230,7 @@
         <MPSII>tseng</MPSII>
         <Yale>tseng</Yale>
         <Tongyong>ceng</Tongyong>
+        <Phonetic>ㄘㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>cha</Hanyu>
@@ -209,6 +238,7 @@
         <MPSII>cha</MPSII>
         <Yale>cha</Yale>
         <Tongyong>cha</Tongyong>
+        <Phonetic>ㄔㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>chai</Hanyu>
@@ -216,6 +246,7 @@
         <MPSII>chai</MPSII>
         <Yale>chai</Yale>
         <Tongyong>chai</Tongyong>
+        <Phonetic>ㄔㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>chan</Hanyu>
@@ -223,6 +254,7 @@
         <MPSII>chan</MPSII>
         <Yale>chan</Yale>
         <Tongyong>chan</Tongyong>
+        <Phonetic>ㄔㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>chang</Hanyu>
@@ -230,6 +262,7 @@
         <MPSII>chang</MPSII>
         <Yale>chang</Yale>
         <Tongyong>chang</Tongyong>
+        <Phonetic>ㄔㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>chao</Hanyu>
@@ -237,6 +270,7 @@
         <MPSII>chau</MPSII>
         <Yale>chau</Yale>
         <Tongyong>chao</Tongyong>
+        <Phonetic>ㄔㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>che</Hanyu>
@@ -244,6 +278,7 @@
         <MPSII>che</MPSII>
         <Yale>che</Yale>
         <Tongyong>che</Tongyong>
+        <Phonetic>ㄔㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>chen</Hanyu>
@@ -251,6 +286,7 @@
         <MPSII>chen</MPSII>
         <Yale>chen</Yale>
         <Tongyong>chen</Tongyong>
+        <Phonetic>ㄔㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>cheng</Hanyu>
@@ -258,6 +294,7 @@
         <MPSII>cheng</MPSII>
         <Yale>cheng</Yale>
         <Tongyong>cheng</Tongyong>
+        <Phonetic>ㄔㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>chi</Hanyu>
@@ -265,6 +302,7 @@
         <MPSII>chr</MPSII>
         <Yale>chr</Yale>
         <Tongyong>chih</Tongyong>
+        <Phonetic>ㄔ</Phonetic>
     </item>
     <item>
         <Hanyu>chong</Hanyu>
@@ -272,6 +310,7 @@
         <MPSII>chung</MPSII>
         <Yale>chung</Yale>
         <Tongyong>chong</Tongyong>
+        <Phonetic>ㄔㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>chou</Hanyu>
@@ -279,6 +318,7 @@
         <MPSII>chou</MPSII>
         <Yale>chou</Yale>
         <Tongyong>chou</Tongyong>
+        <Phonetic>ㄔㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>chu</Hanyu>
@@ -286,6 +326,7 @@
         <MPSII>chu</MPSII>
         <Yale>chu</Yale>
         <Tongyong>chu</Tongyong>
+        <Phonetic>ㄔㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>chua</Hanyu>
@@ -293,6 +334,7 @@
         <MPSII>chua</MPSII>
         <Yale>chwa</Yale>
         <Tongyong>chua</Tongyong>
+        <Phonetic>ㄔㄨㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>chuai</Hanyu>
@@ -300,6 +342,7 @@
         <MPSII>chuai</MPSII>
         <Yale>chwai</Yale>
         <Tongyong>chuai</Tongyong>
+        <Phonetic>ㄔㄨㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>chuan</Hanyu>
@@ -307,6 +350,7 @@
         <MPSII>chuan</MPSII>
         <Yale>chwan</Yale>
         <Tongyong>chuan</Tongyong>
+        <Phonetic>ㄔㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>chuang</Hanyu>
@@ -314,6 +358,7 @@
         <MPSII>chuang</MPSII>
         <Yale>chwang</Yale>
         <Tongyong>chuang</Tongyong>
+        <Phonetic>ㄔㄨㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>chui</Hanyu>
@@ -321,6 +366,7 @@
         <MPSII>chuei</MPSII>
         <Yale>chwei</Yale>
         <Tongyong>chuei</Tongyong>
+        <Phonetic>ㄔㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>chun</Hanyu>
@@ -328,6 +374,7 @@
         <MPSII>chuen</MPSII>
         <Yale>chwen</Yale>
         <Tongyong>chun</Tongyong>
+        <Phonetic>ㄔㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>chuo</Hanyu>
@@ -335,6 +382,7 @@
         <MPSII>chuo</MPSII>
         <Yale>chwo</Yale>
         <Tongyong>chuo</Tongyong>
+        <Phonetic>ㄔㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>qi</Hanyu>
@@ -342,6 +390,7 @@
         <MPSII>chi</MPSII>
         <Yale>chi</Yale>
         <Tongyong>ci</Tongyong>
+        <Phonetic>ㄑㄧ</Phonetic>
     </item>
     <item>
         <Hanyu>qia</Hanyu>
@@ -349,6 +398,7 @@
         <MPSII>chia</MPSII>
         <Yale>chya</Yale>
         <Tongyong>cia</Tongyong>
+        <Phonetic>ㄑㄧㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>qian</Hanyu>
@@ -356,6 +406,7 @@
         <MPSII>chian</MPSII>
         <Yale>chyan</Yale>
         <Tongyong>cian</Tongyong>
+        <Phonetic>ㄑㄧㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>qiang</Hanyu>
@@ -363,6 +414,7 @@
         <MPSII>chiang</MPSII>
         <Yale>chyang</Yale>
         <Tongyong>ciang</Tongyong>
+        <Phonetic>ㄑㄧㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>qiao</Hanyu>
@@ -370,6 +422,7 @@
         <MPSII>chiau</MPSII>
         <Yale>chyau</Yale>
         <Tongyong>ciao</Tongyong>
+        <Phonetic>ㄑㄧㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>qie</Hanyu>
@@ -377,6 +430,7 @@
         <MPSII>chie</MPSII>
         <Yale>chye</Yale>
         <Tongyong>cie</Tongyong>
+        <Phonetic>ㄑㄧㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>ci</Hanyu>
@@ -384,6 +438,7 @@
         <MPSII>tsz</MPSII>
         <Yale>tsz</Yale>
         <Tongyong>cih</Tongyong>
+        <Phonetic>ㄘ</Phonetic>
     </item>
     <item>
         <Hanyu>qin</Hanyu>
@@ -391,6 +446,7 @@
         <MPSII>chin</MPSII>
         <Yale>chin</Yale>
         <Tongyong>cin</Tongyong>
+        <Phonetic>ㄑㄧㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>qing</Hanyu>
@@ -398,6 +454,7 @@
         <MPSII>ching</MPSII>
         <Yale>ching</Yale>
         <Tongyong>cing</Tongyong>
+        <Phonetic>ㄑㄧㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>qiu</Hanyu>
@@ -405,6 +462,7 @@
         <MPSII>chiou</MPSII>
         <Yale>chyou</Yale>
         <Tongyong>ciou</Tongyong>
+        <Phonetic>ㄑㄧㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>cong</Hanyu>
@@ -412,6 +470,7 @@
         <MPSII>tsung</MPSII>
         <Yale>tsung</Yale>
         <Tongyong>cong</Tongyong>
+        <Phonetic>ㄘㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>cou</Hanyu>
@@ -419,6 +478,7 @@
         <MPSII>tsou</MPSII>
         <Yale>tsou</Yale>
         <Tongyong>cou</Tongyong>
+        <Phonetic>ㄘㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>cu</Hanyu>
@@ -426,6 +486,7 @@
         <MPSII>tsu</MPSII>
         <Yale>tsu</Yale>
         <Tongyong>cu</Tongyong>
+        <Phonetic>ㄘㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>cuan</Hanyu>
@@ -433,6 +494,7 @@
         <MPSII>tsuan</MPSII>
         <Yale>tswan</Yale>
         <Tongyong>cuan</Tongyong>
+        <Phonetic>ㄘㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>cui</Hanyu>
@@ -440,6 +502,7 @@
         <MPSII>tsuei</MPSII>
         <Yale>tswei</Yale>
         <Tongyong>cuei</Tongyong>
+        <Phonetic>ㄘㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>cun</Hanyu>
@@ -447,6 +510,7 @@
         <MPSII>tsuen</MPSII>
         <Yale>tswen</Yale>
         <Tongyong>cun</Tongyong>
+        <Phonetic>ㄘㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>cuo</Hanyu>
@@ -454,6 +518,7 @@
         <MPSII>tsuo</MPSII>
         <Yale>tswo</Yale>
         <Tongyong>cuo</Tongyong>
+        <Phonetic>ㄘㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>qiong</Hanyu>
@@ -461,6 +526,7 @@
         <MPSII>chiung</MPSII>
         <Yale>chyung</Yale>
         <Tongyong>cyong</Tongyong>
+        <Phonetic>ㄑㄩㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>qu</Hanyu>
@@ -468,6 +534,7 @@
         <MPSII>chiu</MPSII>
         <Yale>chyu</Yale>
         <Tongyong>cyu</Tongyong>
+        <Phonetic>ㄑㄩ</Phonetic>
     </item>
     <item>
         <Hanyu>quan</Hanyu>
@@ -475,6 +542,7 @@
         <MPSII>chiuan</MPSII>
         <Yale>chywan</Yale>
         <Tongyong>cyuan</Tongyong>
+        <Phonetic>ㄑㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>que</Hanyu>
@@ -482,6 +550,7 @@
         <MPSII>chiue</MPSII>
         <Yale>chywe</Yale>
         <Tongyong>cyue</Tongyong>
+        <Phonetic>ㄑㄩㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>qun</Hanyu>
@@ -489,6 +558,7 @@
         <MPSII>chiun</MPSII>
         <Yale>chyun</Yale>
         <Tongyong>cyun</Tongyong>
+        <Phonetic>ㄑㄩㄋ</Phonetic>
     </item>
     <item>
         <Hanyu>da</Hanyu>
@@ -496,6 +566,7 @@
         <MPSII>da</MPSII>
         <Yale>da</Yale>
         <Tongyong>da</Tongyong>
+        <Phonetic>ㄉㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>dai</Hanyu>
@@ -503,6 +574,7 @@
         <MPSII>dai</MPSII>
         <Yale>dai</Yale>
         <Tongyong>dai</Tongyong>
+        <Phonetic>ㄉㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>dan</Hanyu>
@@ -510,6 +582,7 @@
         <MPSII>dan</MPSII>
         <Yale>dan</Yale>
         <Tongyong>dan</Tongyong>
+        <Phonetic>ㄉㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>dang</Hanyu>
@@ -517,6 +590,7 @@
         <MPSII>dang</MPSII>
         <Yale>dang</Yale>
         <Tongyong>dang</Tongyong>
+        <Phonetic>ㄉㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>dao</Hanyu>
@@ -524,6 +598,7 @@
         <MPSII>dau</MPSII>
         <Yale>dau</Yale>
         <Tongyong>dao</Tongyong>
+        <Phonetic>ㄉㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>de</Hanyu>
@@ -531,6 +606,7 @@
         <MPSII>de</MPSII>
         <Yale>de</Yale>
         <Tongyong>de</Tongyong>
+        <Phonetic>ㄉㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>dei</Hanyu>
@@ -538,6 +614,7 @@
         <MPSII>dei</MPSII>
         <Yale>dei</Yale>
         <Tongyong>dei</Tongyong>
+        <Phonetic>ㄉㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>den</Hanyu>
@@ -545,6 +622,7 @@
         <MPSII>den</MPSII>
         <Yale>den</Yale>
         <Tongyong>den</Tongyong>
+        <Phonetic>ㄉㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>deng</Hanyu>
@@ -552,6 +630,7 @@
         <MPSII>deng</MPSII>
         <Yale>deng</Yale>
         <Tongyong>deng</Tongyong>
+        <Phonetic>ㄉㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>di</Hanyu>
@@ -559,6 +638,7 @@
         <MPSII>di</MPSII>
         <Yale>di</Yale>
         <Tongyong>di</Tongyong>
+        <Phonetic>ㄉㄧ</Phonetic>
     </item>
     <item>
         <Hanyu>dian</Hanyu>
@@ -566,6 +646,7 @@
         <MPSII>dian</MPSII>
         <Yale>dyan</Yale>
         <Tongyong>dian</Tongyong>
+        <Phonetic>ㄉㄧㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>diang</Hanyu>
@@ -573,6 +654,7 @@
         <MPSII>diang</MPSII>
         <Yale>dyang</Yale>
         <Tongyong>diang</Tongyong>
+        <Phonetic>ㄉㄧㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>diao</Hanyu>
@@ -580,6 +662,7 @@
         <MPSII>diau</MPSII>
         <Yale>dyau</Yale>
         <Tongyong>diao</Tongyong>
+        <Phonetic>ㄉㄧㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>die</Hanyu>
@@ -587,6 +670,7 @@
         <MPSII>die</MPSII>
         <Yale>dye</Yale>
         <Tongyong>die</Tongyong>
+        <Phonetic>ㄉㄧㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>ding</Hanyu>
@@ -594,6 +678,7 @@
         <MPSII>ding</MPSII>
         <Yale>ding</Yale>
         <Tongyong>ding</Tongyong>
+        <Phonetic>ㄉㄧㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>diu</Hanyu>
@@ -601,6 +686,7 @@
         <MPSII>diou</MPSII>
         <Yale>dyou</Yale>
         <Tongyong>diou</Tongyong>
+        <Phonetic>ㄉㄧㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>dong</Hanyu>
@@ -608,6 +694,7 @@
         <MPSII>dung</MPSII>
         <Yale>dung</Yale>
         <Tongyong>dong</Tongyong>
+        <Phonetic>ㄉㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>dou</Hanyu>
@@ -615,6 +702,7 @@
         <MPSII>dou</MPSII>
         <Yale>dou</Yale>
         <Tongyong>dou</Tongyong>
+        <Phonetic>ㄉㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>du</Hanyu>
@@ -622,6 +710,7 @@
         <MPSII>du</MPSII>
         <Yale>du</Yale>
         <Tongyong>du</Tongyong>
+        <Phonetic>ㄉㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>duan</Hanyu>
@@ -629,6 +718,7 @@
         <MPSII>duan</MPSII>
         <Yale>dwan</Yale>
         <Tongyong>duan</Tongyong>
+        <Phonetic>ㄉㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>dui</Hanyu>
@@ -636,6 +726,7 @@
         <MPSII>duei</MPSII>
         <Yale>dwei</Yale>
         <Tongyong>duei</Tongyong>
+        <Phonetic>ㄉㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>dun</Hanyu>
@@ -643,6 +734,7 @@
         <MPSII>duen</MPSII>
         <Yale>dwen</Yale>
         <Tongyong>dun</Tongyong>
+        <Phonetic>ㄉㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>duo</Hanyu>
@@ -650,6 +742,7 @@
         <MPSII>duo</MPSII>
         <Yale>dwo</Yale>
         <Tongyong>duo</Tongyong>
+        <Phonetic>ㄉㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>e</Hanyu>
@@ -657,6 +750,7 @@
         <MPSII>e</MPSII>
         <Yale>e</Yale>
         <Tongyong>e</Tongyong>
+        <Phonetic>ㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>ei</Hanyu>
@@ -664,6 +758,7 @@
         <MPSII>ei</MPSII>
         <Yale>ei</Yale>
         <Tongyong>ei</Tongyong>
+        <Phonetic>ㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>en</Hanyu>
@@ -671,6 +766,7 @@
         <MPSII>en</MPSII>
         <Yale>en</Yale>
         <Tongyong>en</Tongyong>
+        <Phonetic>ㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>er</Hanyu>
@@ -678,6 +774,7 @@
         <MPSII>er</MPSII>
         <Yale>er</Yale>
         <Tongyong>er</Tongyong>
+        <Phonetic>ㄦ</Phonetic>
     </item>
     <item>
         <Hanyu>fa</Hanyu>
@@ -685,6 +782,7 @@
         <MPSII>fa</MPSII>
         <Yale>fa</Yale>
         <Tongyong>fa</Tongyong>
+        <Phonetic>ㄈㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>fan</Hanyu>
@@ -692,6 +790,7 @@
         <MPSII>fan</MPSII>
         <Yale>fan</Yale>
         <Tongyong>fan</Tongyong>
+        <Phonetic>ㄈㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>fang</Hanyu>
@@ -699,6 +798,7 @@
         <MPSII>fang</MPSII>
         <Yale>fang</Yale>
         <Tongyong>fang</Tongyong>
+        <Phonetic>ㄈㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>fei</Hanyu>
@@ -706,6 +806,7 @@
         <MPSII>fei</MPSII>
         <Yale>fei</Yale>
         <Tongyong>fei</Tongyong>
+        <Phonetic>ㄈㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>fen</Hanyu>
@@ -713,6 +814,7 @@
         <MPSII>fen</MPSII>
         <Yale>fen</Yale>
         <Tongyong>fen</Tongyong>
+        <Phonetic>ㄈㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>fo</Hanyu>
@@ -720,6 +822,7 @@
         <MPSII>fo</MPSII>
         <Yale>fwo</Yale>
         <Tongyong>fo</Tongyong>
+        <Phonetic>ㄈㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>feng</Hanyu>
@@ -727,6 +830,7 @@
         <MPSII>feng</MPSII>
         <Yale>feng</Yale>
         <Tongyong>fong</Tongyong>
+        <Phonetic>ㄈㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>fou</Hanyu>
@@ -734,6 +838,7 @@
         <MPSII>fou</MPSII>
         <Yale>fou</Yale>
         <Tongyong>fou</Tongyong>
+        <Phonetic>ㄈㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>fu</Hanyu>
@@ -741,6 +846,7 @@
         <MPSII>fu</MPSII>
         <Yale>fu</Yale>
         <Tongyong>fu</Tongyong>
+        <Phonetic>ㄈㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>ga</Hanyu>
@@ -748,6 +854,7 @@
         <MPSII>ga</MPSII>
         <Yale>ga</Yale>
         <Tongyong>ga</Tongyong>
+        <Phonetic>ㄍㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>gai</Hanyu>
@@ -755,6 +862,7 @@
         <MPSII>gai</MPSII>
         <Yale>gai</Yale>
         <Tongyong>gai</Tongyong>
+        <Phonetic>ㄍㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>gan</Hanyu>
@@ -762,6 +870,7 @@
         <MPSII>gan</MPSII>
         <Yale>gan</Yale>
         <Tongyong>gan</Tongyong>
+        <Phonetic>ㄍㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>gang</Hanyu>
@@ -769,6 +878,7 @@
         <MPSII>gang</MPSII>
         <Yale>gang</Yale>
         <Tongyong>gang</Tongyong>
+        <Phonetic>ㄍㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>gao</Hanyu>
@@ -776,6 +886,7 @@
         <MPSII>gau</MPSII>
         <Yale>gau</Yale>
         <Tongyong>gao</Tongyong>
+        <Phonetic>ㄍㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>ge</Hanyu>
@@ -783,6 +894,7 @@
         <MPSII>ge</MPSII>
         <Yale>ge</Yale>
         <Tongyong>ge</Tongyong>
+        <Phonetic>ㄍㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>gei</Hanyu>
@@ -790,6 +902,7 @@
         <MPSII>gei</MPSII>
         <Yale>gei</Yale>
         <Tongyong>gei</Tongyong>
+        <Phonetic>ㄍㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>gen</Hanyu>
@@ -797,6 +910,7 @@
         <MPSII>gen</MPSII>
         <Yale>gen</Yale>
         <Tongyong>gen</Tongyong>
+        <Phonetic>ㄍㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>geng</Hanyu>
@@ -804,6 +918,7 @@
         <MPSII>geng</MPSII>
         <Yale>geng</Yale>
         <Tongyong>geng</Tongyong>
+        <Phonetic>ㄍㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>gong</Hanyu>
@@ -811,6 +926,7 @@
         <MPSII>gung</MPSII>
         <Yale>gung</Yale>
         <Tongyong>gong</Tongyong>
+        <Phonetic>ㄍㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>gou</Hanyu>
@@ -818,6 +934,7 @@
         <MPSII>gou</MPSII>
         <Yale>gou</Yale>
         <Tongyong>gou</Tongyong>
+        <Phonetic>ㄍㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>gu</Hanyu>
@@ -825,6 +942,7 @@
         <MPSII>gu</MPSII>
         <Yale>gu</Yale>
         <Tongyong>gu</Tongyong>
+        <Phonetic>ㄍㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>gua</Hanyu>
@@ -832,6 +950,7 @@
         <MPSII>gua</MPSII>
         <Yale>gwa</Yale>
         <Tongyong>gua</Tongyong>
+        <Phonetic>ㄍㄨㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>guai</Hanyu>
@@ -839,6 +958,7 @@
         <MPSII>guai</MPSII>
         <Yale>gwai</Yale>
         <Tongyong>guai</Tongyong>
+        <Phonetic>ㄍㄨㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>guan</Hanyu>
@@ -846,6 +966,7 @@
         <MPSII>guan</MPSII>
         <Yale>gwan</Yale>
         <Tongyong>guan</Tongyong>
+        <Phonetic>ㄍㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>guang</Hanyu>
@@ -853,6 +974,7 @@
         <MPSII>guang</MPSII>
         <Yale>gwang</Yale>
         <Tongyong>guang</Tongyong>
+        <Phonetic>ㄍㄨㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>gui</Hanyu>
@@ -860,6 +982,7 @@
         <MPSII>guei</MPSII>
         <Yale>gwei</Yale>
         <Tongyong>guei</Tongyong>
+        <Phonetic>ㄍㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>gun</Hanyu>
@@ -867,6 +990,7 @@
         <MPSII>guen</MPSII>
         <Yale>gwun</Yale>
         <Tongyong>gun</Tongyong>
+        <Phonetic>ㄍㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>guo</Hanyu>
@@ -874,6 +998,7 @@
         <MPSII>guo</MPSII>
         <Yale>gwo</Yale>
         <Tongyong>guo</Tongyong>
+        <Phonetic>ㄍㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>ha</Hanyu>
@@ -881,6 +1006,7 @@
         <MPSII>ha</MPSII>
         <Yale>ha</Yale>
         <Tongyong>ha</Tongyong>
+        <Phonetic>ㄏㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>hai</Hanyu>
@@ -888,6 +1014,7 @@
         <MPSII>hai</MPSII>
         <Yale>hai</Yale>
         <Tongyong>hai</Tongyong>
+        <Phonetic>ㄏㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>han</Hanyu>
@@ -895,6 +1022,7 @@
         <MPSII>han</MPSII>
         <Yale>han</Yale>
         <Tongyong>han</Tongyong>
+        <Phonetic>ㄏㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>hang</Hanyu>
@@ -902,6 +1030,7 @@
         <MPSII>hang</MPSII>
         <Yale>hang</Yale>
         <Tongyong>hang</Tongyong>
+        <Phonetic>ㄏㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>hao</Hanyu>
@@ -909,6 +1038,7 @@
         <MPSII>hau</MPSII>
         <Yale>hau</Yale>
         <Tongyong>hao</Tongyong>
+        <Phonetic>ㄏㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>he</Hanyu>
@@ -916,6 +1046,7 @@
         <MPSII>he</MPSII>
         <Yale>he</Yale>
         <Tongyong>he</Tongyong>
+        <Phonetic>ㄏㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>hei</Hanyu>
@@ -923,6 +1054,7 @@
         <MPSII>hei</MPSII>
         <Yale>hei</Yale>
         <Tongyong>hei</Tongyong>
+        <Phonetic>ㄏㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>hen</Hanyu>
@@ -930,6 +1062,7 @@
         <MPSII>hen</MPSII>
         <Yale>hen</Yale>
         <Tongyong>hen</Tongyong>
+        <Phonetic>ㄏㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>heng</Hanyu>
@@ -937,6 +1070,7 @@
         <MPSII>heng</MPSII>
         <Yale>heng</Yale>
         <Tongyong>heng</Tongyong>
+        <Phonetic>ㄏㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>hong</Hanyu>
@@ -944,6 +1078,7 @@
         <MPSII>hung</MPSII>
         <Yale>hung</Yale>
         <Tongyong>hong</Tongyong>
+        <Phonetic>ㄏㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>hou</Hanyu>
@@ -951,6 +1086,7 @@
         <MPSII>hou</MPSII>
         <Yale>hou</Yale>
         <Tongyong>hou</Tongyong>
+        <Phonetic>ㄏㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>hu</Hanyu>
@@ -958,6 +1094,7 @@
         <MPSII>hu</MPSII>
         <Yale>hu</Yale>
         <Tongyong>hu</Tongyong>
+        <Phonetic>ㄏㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>hua</Hanyu>
@@ -965,6 +1102,7 @@
         <MPSII>hua</MPSII>
         <Yale>hwa</Yale>
         <Tongyong>hua</Tongyong>
+        <Phonetic>ㄏㄨㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>huai</Hanyu>
@@ -972,6 +1110,7 @@
         <MPSII>huai</MPSII>
         <Yale>hwai</Yale>
         <Tongyong>huai</Tongyong>
+        <Phonetic>ㄏㄨㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>huan</Hanyu>
@@ -979,6 +1118,7 @@
         <MPSII>huan</MPSII>
         <Yale>hwan</Yale>
         <Tongyong>huan</Tongyong>
+        <Phonetic>ㄏㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>huang</Hanyu>
@@ -986,6 +1126,7 @@
         <MPSII>huang</MPSII>
         <Yale>hwang</Yale>
         <Tongyong>huang</Tongyong>
+        <Phonetic>ㄏㄨㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>hui</Hanyu>
@@ -993,6 +1134,7 @@
         <MPSII>huei</MPSII>
         <Yale>hwei</Yale>
         <Tongyong>huei</Tongyong>
+        <Phonetic>ㄏㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>hun</Hanyu>
@@ -1000,6 +1142,7 @@
         <MPSII>huen</MPSII>
         <Yale>hwen</Yale>
         <Tongyong>hun</Tongyong>
+        <Phonetic>ㄏㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>huo</Hanyu>
@@ -1007,6 +1150,7 @@
         <MPSII>huo</MPSII>
         <Yale>hwo</Yale>
         <Tongyong>huo</Tongyong>
+        <Phonetic>ㄏㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>zha</Hanyu>
@@ -1014,6 +1158,7 @@
         <MPSII>ja</MPSII>
         <Yale>ja</Yale>
         <Tongyong>jha</Tongyong>
+        <Phonetic>ㄓㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>zhai</Hanyu>
@@ -1021,6 +1166,7 @@
         <MPSII>jai</MPSII>
         <Yale>jai</Yale>
         <Tongyong>jhai</Tongyong>
+        <Phonetic>ㄓㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>zhan</Hanyu>
@@ -1028,6 +1174,7 @@
         <MPSII>jan</MPSII>
         <Yale>jan</Yale>
         <Tongyong>jhan</Tongyong>
+        <Phonetic>ㄓㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>zhang</Hanyu>
@@ -1035,6 +1182,7 @@
         <MPSII>jang</MPSII>
         <Yale>jang</Yale>
         <Tongyong>jhang</Tongyong>
+        <Phonetic>ㄓㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>zhao</Hanyu>
@@ -1042,6 +1190,7 @@
         <MPSII>jau</MPSII>
         <Yale>jau</Yale>
         <Tongyong>jhao</Tongyong>
+        <Phonetic>ㄓㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>zhe</Hanyu>
@@ -1049,6 +1198,7 @@
         <MPSII>je</MPSII>
         <Yale>je</Yale>
         <Tongyong>jhe</Tongyong>
+        <Phonetic>ㄓㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>zhei</Hanyu>
@@ -1056,6 +1206,7 @@
         <MPSII>jei</MPSII>
         <Yale>jei</Yale>
         <Tongyong>jhei</Tongyong>
+        <Phonetic>ㄓㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>zhen</Hanyu>
@@ -1063,6 +1214,7 @@
         <MPSII>jen</MPSII>
         <Yale>jen</Yale>
         <Tongyong>jhen</Tongyong>
+        <Phonetic>ㄓㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>zheng</Hanyu>
@@ -1070,6 +1222,7 @@
         <MPSII>jeng</MPSII>
         <Yale>jeng</Yale>
         <Tongyong>jheng</Tongyong>
+        <Phonetic>ㄓㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>zhi</Hanyu>
@@ -1077,6 +1230,7 @@
         <MPSII>jr</MPSII>
         <Yale>jr</Yale>
         <Tongyong>jhih</Tongyong>
+        <Phonetic>ㄓ</Phonetic>
     </item>
     <item>
         <Hanyu>zhong</Hanyu>
@@ -1084,6 +1238,7 @@
         <MPSII>jung</MPSII>
         <Yale>jung</Yale>
         <Tongyong>jhong</Tongyong>
+        <Phonetic>ㄓㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>zhou</Hanyu>
@@ -1091,6 +1246,7 @@
         <MPSII>jou</MPSII>
         <Yale>jou</Yale>
         <Tongyong>jhou</Tongyong>
+        <Phonetic>ㄓㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>zhu</Hanyu>
@@ -1098,6 +1254,7 @@
         <MPSII>ju</MPSII>
         <Yale>ju</Yale>
         <Tongyong>jhu</Tongyong>
+        <Phonetic>ㄓㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>zhua</Hanyu>
@@ -1105,6 +1262,7 @@
         <MPSII>jua</MPSII>
         <Yale>jwa</Yale>
         <Tongyong>jhua</Tongyong>
+        <Phonetic>ㄓㄨㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>zhuai</Hanyu>
@@ -1112,6 +1270,7 @@
         <MPSII>juai</MPSII>
         <Yale>jwai</Yale>
         <Tongyong>jhuai</Tongyong>
+        <Phonetic>ㄓㄨㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>zhuan</Hanyu>
@@ -1119,6 +1278,7 @@
         <MPSII>juan</MPSII>
         <Yale>jwan</Yale>
         <Tongyong>jhuan</Tongyong>
+        <Phonetic>ㄓㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>zhuang</Hanyu>
@@ -1126,6 +1286,7 @@
         <MPSII>juang</MPSII>
         <Yale>jwang</Yale>
         <Tongyong>jhuang</Tongyong>
+        <Phonetic>ㄓㄨㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>zhui</Hanyu>
@@ -1133,6 +1294,7 @@
         <MPSII>juei</MPSII>
         <Yale>jwei</Yale>
         <Tongyong>jhuei</Tongyong>
+        <Phonetic>ㄓㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>zhun</Hanyu>
@@ -1140,6 +1302,7 @@
         <MPSII>juen</MPSII>
         <Yale>jwen</Yale>
         <Tongyong>jhun</Tongyong>
+        <Phonetic>ㄓㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>zhuo</Hanyu>
@@ -1147,6 +1310,7 @@
         <MPSII>juo</MPSII>
         <Yale>jwo</Yale>
         <Tongyong>jhuo</Tongyong>
+        <Phonetic>ㄓㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>ji</Hanyu>
@@ -1154,6 +1318,7 @@
         <MPSII>ji</MPSII>
         <Yale>ji</Yale>
         <Tongyong>ji</Tongyong>
+        <Phonetic>ㄐㄧ</Phonetic>
     </item>
     <item>
         <Hanyu>jia</Hanyu>
@@ -1161,6 +1326,7 @@
         <MPSII>jia</MPSII>
         <Yale>jya</Yale>
         <Tongyong>jia</Tongyong>
+        <Phonetic>ㄐㄧㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>jian</Hanyu>
@@ -1168,6 +1334,7 @@
         <MPSII>jian</MPSII>
         <Yale>jyan</Yale>
         <Tongyong>jian</Tongyong>
+        <Phonetic>ㄐㄧㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>jiang</Hanyu>
@@ -1175,6 +1342,7 @@
         <MPSII>jiang</MPSII>
         <Yale>jyang</Yale>
         <Tongyong>jiang</Tongyong>
+        <Phonetic>ㄐㄧㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>jiao</Hanyu>
@@ -1182,6 +1350,7 @@
         <MPSII>jiau</MPSII>
         <Yale>jyau</Yale>
         <Tongyong>jiao</Tongyong>
+        <Phonetic>ㄐㄧㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>jie</Hanyu>
@@ -1189,6 +1358,7 @@
         <MPSII>jie</MPSII>
         <Yale>jye</Yale>
         <Tongyong>jie</Tongyong>
+        <Phonetic>ㄐㄧㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>jin</Hanyu>
@@ -1196,6 +1366,7 @@
         <MPSII>jin</MPSII>
         <Yale>jin</Yale>
         <Tongyong>jin</Tongyong>
+        <Phonetic>ㄐㄧㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>jing</Hanyu>
@@ -1203,6 +1374,7 @@
         <MPSII>jing</MPSII>
         <Yale>jing</Yale>
         <Tongyong>jing</Tongyong>
+        <Phonetic>ㄐㄧㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>jiu</Hanyu>
@@ -1210,6 +1382,7 @@
         <MPSII>jiou</MPSII>
         <Yale>jyou</Yale>
         <Tongyong>jiou</Tongyong>
+        <Phonetic>ㄐㄧㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>jiong</Hanyu>
@@ -1217,6 +1390,7 @@
         <MPSII>jiung</MPSII>
         <Yale>jyung</Yale>
         <Tongyong>jyong</Tongyong>
+        <Phonetic>ㄐㄩㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>ju</Hanyu>
@@ -1224,6 +1398,7 @@
         <MPSII>jiu</MPSII>
         <Yale>jyu</Yale>
         <Tongyong>jyu</Tongyong>
+        <Phonetic>ㄐㄩ</Phonetic>
     </item>
     <item>
         <Hanyu>juan</Hanyu>
@@ -1231,6 +1406,7 @@
         <MPSII>jiuan</MPSII>
         <Yale>jywan</Yale>
         <Tongyong>jyuan</Tongyong>
+        <Phonetic>ㄐㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>jue</Hanyu>
@@ -1238,6 +1414,7 @@
         <MPSII>jiue</MPSII>
         <Yale>jywe</Yale>
         <Tongyong>jyue</Tongyong>
+        <Phonetic>ㄐㄩㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>jun</Hanyu>
@@ -1245,6 +1422,7 @@
         <MPSII>jiun</MPSII>
         <Yale>jyun</Yale>
         <Tongyong>jyun</Tongyong>
+        <Phonetic>ㄐㄩㄋ</Phonetic>
     </item>
     <item>
         <Hanyu>ka</Hanyu>
@@ -1252,6 +1430,7 @@
         <MPSII>ka</MPSII>
         <Yale>ka</Yale>
         <Tongyong>ka</Tongyong>
+        <Phonetic>ㄎㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>kai</Hanyu>
@@ -1259,6 +1438,7 @@
         <MPSII>kai</MPSII>
         <Yale>kai</Yale>
         <Tongyong>kai</Tongyong>
+        <Phonetic>ㄎㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>kan</Hanyu>
@@ -1266,6 +1446,7 @@
         <MPSII>kan</MPSII>
         <Yale>kan</Yale>
         <Tongyong>kan</Tongyong>
+        <Phonetic>ㄎㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>kang</Hanyu>
@@ -1273,6 +1454,7 @@
         <MPSII>kang</MPSII>
         <Yale>kang</Yale>
         <Tongyong>kang</Tongyong>
+        <Phonetic>ㄎㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>kao</Hanyu>
@@ -1280,6 +1462,7 @@
         <MPSII>kau</MPSII>
         <Yale>kau</Yale>
         <Tongyong>kao</Tongyong>
+        <Phonetic>ㄎㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>ke</Hanyu>
@@ -1287,6 +1470,7 @@
         <MPSII>ke</MPSII>
         <Yale>ke</Yale>
         <Tongyong>ke</Tongyong>
+        <Phonetic>ㄎㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>ken</Hanyu>
@@ -1294,6 +1478,7 @@
         <MPSII>ken</MPSII>
         <Yale>ken</Yale>
         <Tongyong>ken</Tongyong>
+        <Phonetic>ㄎㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>keng</Hanyu>
@@ -1301,6 +1486,7 @@
         <MPSII>keng</MPSII>
         <Yale>keng</Yale>
         <Tongyong>keng</Tongyong>
+        <Phonetic>ㄎㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>kong</Hanyu>
@@ -1308,6 +1494,7 @@
         <MPSII>kung</MPSII>
         <Yale>kung</Yale>
         <Tongyong>kong</Tongyong>
+        <Phonetic>ㄎㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>kou</Hanyu>
@@ -1315,6 +1502,7 @@
         <MPSII>kou</MPSII>
         <Yale>kou</Yale>
         <Tongyong>kou</Tongyong>
+        <Phonetic>ㄎㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>ku</Hanyu>
@@ -1322,6 +1510,7 @@
         <MPSII>ku</MPSII>
         <Yale>ku</Yale>
         <Tongyong>ku</Tongyong>
+        <Phonetic>ㄎㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>kua</Hanyu>
@@ -1329,6 +1518,7 @@
         <MPSII>kua</MPSII>
         <Yale>kwa</Yale>
         <Tongyong>kua</Tongyong>
+        <Phonetic>ㄎㄨㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>kuai</Hanyu>
@@ -1336,6 +1526,7 @@
         <MPSII>kuai</MPSII>
         <Yale>kwai</Yale>
         <Tongyong>kuai</Tongyong>
+        <Phonetic>ㄎㄨㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>kuan</Hanyu>
@@ -1343,6 +1534,7 @@
         <MPSII>kuan</MPSII>
         <Yale>kwan</Yale>
         <Tongyong>kuan</Tongyong>
+        <Phonetic>ㄎㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>kuang</Hanyu>
@@ -1350,6 +1542,7 @@
         <MPSII>kuang</MPSII>
         <Yale>kwang</Yale>
         <Tongyong>kuang</Tongyong>
+        <Phonetic>ㄎㄨㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>kui</Hanyu>
@@ -1357,6 +1550,7 @@
         <MPSII>kuei</MPSII>
         <Yale>kwei</Yale>
         <Tongyong>kuei</Tongyong>
+        <Phonetic>ㄎㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>kun</Hanyu>
@@ -1364,6 +1558,7 @@
         <MPSII>kuen</MPSII>
         <Yale>kwen</Yale>
         <Tongyong>kun</Tongyong>
+        <Phonetic>ㄎㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>kuo</Hanyu>
@@ -1371,6 +1566,7 @@
         <MPSII>kuo</MPSII>
         <Yale>kwo</Yale>
         <Tongyong>kuo</Tongyong>
+        <Phonetic>ㄎㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>la</Hanyu>
@@ -1378,6 +1574,7 @@
         <MPSII>la</MPSII>
         <Yale>la</Yale>
         <Tongyong>la</Tongyong>
+        <Phonetic>ㄌㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>lai</Hanyu>
@@ -1385,6 +1582,7 @@
         <MPSII>lai</MPSII>
         <Yale>lai</Yale>
         <Tongyong>lai</Tongyong>
+        <Phonetic>ㄌㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>lan</Hanyu>
@@ -1392,6 +1590,7 @@
         <MPSII>lan</MPSII>
         <Yale>lan</Yale>
         <Tongyong>lan</Tongyong>
+        <Phonetic>ㄌㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>lang</Hanyu>
@@ -1399,6 +1598,7 @@
         <MPSII>lang</MPSII>
         <Yale>lang</Yale>
         <Tongyong>lang</Tongyong>
+        <Phonetic>ㄌㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>lao</Hanyu>
@@ -1406,6 +1606,7 @@
         <MPSII>lau</MPSII>
         <Yale>lau</Yale>
         <Tongyong>lao</Tongyong>
+        <Phonetic>ㄌㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>le</Hanyu>
@@ -1413,6 +1614,7 @@
         <MPSII>le</MPSII>
         <Yale>le</Yale>
         <Tongyong>le</Tongyong>
+        <Phonetic>ㄌㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>lei</Hanyu>
@@ -1420,6 +1622,7 @@
         <MPSII>lei</MPSII>
         <Yale>lei</Yale>
         <Tongyong>lei</Tongyong>
+        <Phonetic>ㄌㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>leng</Hanyu>
@@ -1427,6 +1630,7 @@
         <MPSII>leng</MPSII>
         <Yale>leng</Yale>
         <Tongyong>leng</Tongyong>
+        <Phonetic>ㄌㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>li</Hanyu>
@@ -1434,6 +1638,7 @@
         <MPSII>li</MPSII>
         <Yale>li</Yale>
         <Tongyong>li</Tongyong>
+        <Phonetic>ㄌㄧ</Phonetic>
     </item>
     <item>
         <Hanyu>lia</Hanyu>
@@ -1441,6 +1646,7 @@
         <MPSII>lia</MPSII>
         <Yale>lya</Yale>
         <Tongyong>lia</Tongyong>
+        <Phonetic>ㄌㄧㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>lian</Hanyu>
@@ -1448,6 +1654,7 @@
         <MPSII>lian</MPSII>
         <Yale>lyan</Yale>
         <Tongyong>lian</Tongyong>
+        <Phonetic>ㄌㄧㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>liang</Hanyu>
@@ -1455,6 +1662,7 @@
         <MPSII>liang</MPSII>
         <Yale>lyang</Yale>
         <Tongyong>liang</Tongyong>
+        <Phonetic>ㄌㄧㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>liao</Hanyu>
@@ -1462,6 +1670,7 @@
         <MPSII>liau</MPSII>
         <Yale>lyau</Yale>
         <Tongyong>liao</Tongyong>
+        <Phonetic>ㄌㄧㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>lie</Hanyu>
@@ -1469,6 +1678,7 @@
         <MPSII>lie</MPSII>
         <Yale>lye</Yale>
         <Tongyong>lie</Tongyong>
+        <Phonetic>ㄌㄧㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>lin</Hanyu>
@@ -1476,6 +1686,7 @@
         <MPSII>lin</MPSII>
         <Yale>lin</Yale>
         <Tongyong>lin</Tongyong>
+        <Phonetic>ㄌㄧㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>ling</Hanyu>
@@ -1483,6 +1694,7 @@
         <MPSII>ling</MPSII>
         <Yale>ling</Yale>
         <Tongyong>ling</Tongyong>
+        <Phonetic>ㄌㄧㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>liu</Hanyu>
@@ -1490,6 +1702,7 @@
         <MPSII>liou</MPSII>
         <Yale>lyou</Yale>
         <Tongyong>liou</Tongyong>
+        <Phonetic>ㄌㄧㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>lo</Hanyu>
@@ -1497,6 +1710,7 @@
         <MPSII>lo</MPSII>
         <Yale>lo</Yale>
         <Tongyong>lo</Tongyong>
+        <Phonetic>ㄌㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>long</Hanyu>
@@ -1504,6 +1718,7 @@
         <MPSII>lung</MPSII>
         <Yale>lung</Yale>
         <Tongyong>long</Tongyong>
+        <Phonetic>ㄌㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>lou</Hanyu>
@@ -1511,6 +1726,7 @@
         <MPSII>lou</MPSII>
         <Yale>lou</Yale>
         <Tongyong>lou</Tongyong>
+        <Phonetic>ㄌㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>lu</Hanyu>
@@ -1518,6 +1734,7 @@
         <MPSII>lu</MPSII>
         <Yale>lu</Yale>
         <Tongyong>lu</Tongyong>
+        <Phonetic>ㄌㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>luan</Hanyu>
@@ -1525,6 +1742,7 @@
         <MPSII>luan</MPSII>
         <Yale>lwan</Yale>
         <Tongyong>luan</Tongyong>
+        <Phonetic>ㄌㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>lun</Hanyu>
@@ -1532,6 +1750,7 @@
         <MPSII>luen</MPSII>
         <Yale>lwun</Yale>
         <Tongyong>lun</Tongyong>
+        <Phonetic>ㄌㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>luo</Hanyu>
@@ -1539,6 +1758,7 @@
         <MPSII>luo</MPSII>
         <Yale>lwo</Yale>
         <Tongyong>luo</Tongyong>
+        <Phonetic>ㄌㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>lu:</Hanyu>
@@ -1546,6 +1766,7 @@
         <MPSII>liu</MPSII>
         <Yale>lyu</Yale>
         <Tongyong>lyu</Tongyong>
+        <Phonetic>ㄌㄩ</Phonetic>
     </item>
     <item>
         <Hanyu>lu:e</Hanyu>
@@ -1553,6 +1774,7 @@
         <MPSII>liue</MPSII>
         <Yale>lywe</Yale>
         <Tongyong>lyue</Tongyong>
+        <Phonetic>ㄌㄩㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>lu:n</Hanyu>
@@ -1560,6 +1782,7 @@
         <MPSII>liun</MPSII>
         <Yale>lyun</Yale>
         <Tongyong>lyun</Tongyong>
+        <Phonetic>ㄌㄩㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>ma</Hanyu>
@@ -1567,6 +1790,7 @@
         <MPSII>ma</MPSII>
         <Yale>ma</Yale>
         <Tongyong>ma</Tongyong>
+        <Phonetic>ㄇㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>mai</Hanyu>
@@ -1574,6 +1798,7 @@
         <MPSII>mai</MPSII>
         <Yale>mai</Yale>
         <Tongyong>mai</Tongyong>
+        <Phonetic>ㄇㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>man</Hanyu>
@@ -1581,6 +1806,7 @@
         <MPSII>man</MPSII>
         <Yale>man</Yale>
         <Tongyong>man</Tongyong>
+        <Phonetic>ㄇㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>mang</Hanyu>
@@ -1588,6 +1814,7 @@
         <MPSII>mang</MPSII>
         <Yale>mang</Yale>
         <Tongyong>mang</Tongyong>
+        <Phonetic>ㄇㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>mao</Hanyu>
@@ -1595,6 +1822,7 @@
         <MPSII>mau</MPSII>
         <Yale>mau</Yale>
         <Tongyong>mao</Tongyong>
+        <Phonetic>ㄇㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>me</Hanyu>
@@ -1602,6 +1830,7 @@
         <MPSII>me</MPSII>
         <Yale>me</Yale>
         <Tongyong>me</Tongyong>
+        <Phonetic>ㄇㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>mei</Hanyu>
@@ -1609,6 +1838,7 @@
         <MPSII>mei</MPSII>
         <Yale>mei</Yale>
         <Tongyong>mei</Tongyong>
+        <Phonetic>ㄇㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>men</Hanyu>
@@ -1616,6 +1846,7 @@
         <MPSII>men</MPSII>
         <Yale>men</Yale>
         <Tongyong>men</Tongyong>
+        <Phonetic>ㄇㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>meng</Hanyu>
@@ -1623,6 +1854,7 @@
         <MPSII>meng</MPSII>
         <Yale>meng</Yale>
         <Tongyong>meng</Tongyong>
+        <Phonetic>ㄇㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>mi</Hanyu>
@@ -1630,6 +1862,7 @@
         <MPSII>mi</MPSII>
         <Yale>mi</Yale>
         <Tongyong>mi</Tongyong>
+        <Phonetic>ㄇㄧ</Phonetic>
     </item>
     <item>
         <Hanyu>mian</Hanyu>
@@ -1637,6 +1870,7 @@
         <MPSII>mian</MPSII>
         <Yale>myan</Yale>
         <Tongyong>mian</Tongyong>
+        <Phonetic>ㄇㄧㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>miao</Hanyu>
@@ -1644,6 +1878,7 @@
         <MPSII>miau</MPSII>
         <Yale>myau</Yale>
         <Tongyong>miao</Tongyong>
+        <Phonetic>ㄇㄧㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>mie</Hanyu>
@@ -1651,6 +1886,7 @@
         <MPSII>mie</MPSII>
         <Yale>mye</Yale>
         <Tongyong>mie</Tongyong>
+        <Phonetic>ㄇㄧㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>min</Hanyu>
@@ -1658,6 +1894,7 @@
         <MPSII>min</MPSII>
         <Yale>min</Yale>
         <Tongyong>min</Tongyong>
+        <Phonetic>ㄇㄧㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>ming</Hanyu>
@@ -1665,6 +1902,7 @@
         <MPSII>ming</MPSII>
         <Yale>ming</Yale>
         <Tongyong>ming</Tongyong>
+        <Phonetic>ㄇㄧㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>miu</Hanyu>
@@ -1672,6 +1910,7 @@
         <MPSII>miou</MPSII>
         <Yale>myou</Yale>
         <Tongyong>miou</Tongyong>
+        <Phonetic>ㄇㄧㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>mo</Hanyu>
@@ -1679,6 +1918,7 @@
         <MPSII>mo</MPSII>
         <Yale>mwo</Yale>
         <Tongyong>mo</Tongyong>
+        <Phonetic>ㄇㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>mou</Hanyu>
@@ -1686,6 +1926,7 @@
         <MPSII>mou</MPSII>
         <Yale>mou</Yale>
         <Tongyong>mou</Tongyong>
+        <Phonetic>ㄇㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>mu</Hanyu>
@@ -1693,6 +1934,7 @@
         <MPSII>mu</MPSII>
         <Yale>mu</Yale>
         <Tongyong>mu</Tongyong>
+        <Phonetic>ㄇㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>na</Hanyu>
@@ -1700,6 +1942,7 @@
         <MPSII>na</MPSII>
         <Yale>na</Yale>
         <Tongyong>na</Tongyong>
+        <Phonetic>ㄋㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>nai</Hanyu>
@@ -1707,6 +1950,7 @@
         <MPSII>nai</MPSII>
         <Yale>nai</Yale>
         <Tongyong>nai</Tongyong>
+        <Phonetic>ㄋㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>nan</Hanyu>
@@ -1714,6 +1958,7 @@
         <MPSII>nan</MPSII>
         <Yale>nan</Yale>
         <Tongyong>nan</Tongyong>
+        <Phonetic>ㄋㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>nang</Hanyu>
@@ -1721,6 +1966,7 @@
         <MPSII>nang</MPSII>
         <Yale>nang</Yale>
         <Tongyong>nang</Tongyong>
+        <Phonetic>ㄋㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>nao</Hanyu>
@@ -1728,6 +1974,7 @@
         <MPSII>nau</MPSII>
         <Yale>nau</Yale>
         <Tongyong>nao</Tongyong>
+        <Phonetic>ㄋㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>ne</Hanyu>
@@ -1735,6 +1982,7 @@
         <MPSII>ne</MPSII>
         <Yale>ne</Yale>
         <Tongyong>ne</Tongyong>
+        <Phonetic>ㄋㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>nei</Hanyu>
@@ -1742,6 +1990,7 @@
         <MPSII>nei</MPSII>
         <Yale>nei</Yale>
         <Tongyong>nei</Tongyong>
+        <Phonetic>ㄋㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>nen</Hanyu>
@@ -1749,6 +1998,7 @@
         <MPSII>nen</MPSII>
         <Yale>nen</Yale>
         <Tongyong>nen</Tongyong>
+        <Phonetic>ㄋㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>neng</Hanyu>
@@ -1756,6 +2006,7 @@
         <MPSII>neng</MPSII>
         <Yale>neng</Yale>
         <Tongyong>neng</Tongyong>
+        <Phonetic>ㄋㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>ni</Hanyu>
@@ -1763,6 +2014,7 @@
         <MPSII>ni</MPSII>
         <Yale>ni</Yale>
         <Tongyong>ni</Tongyong>
+        <Phonetic>ㄋㄧ</Phonetic>
     </item>
     <item>
         <Hanyu>nia</Hanyu>
@@ -1770,6 +2022,7 @@
         <MPSII>nia</MPSII>
         <Yale>nya</Yale>
         <Tongyong>nia</Tongyong>
+        <Phonetic>ㄋㄧㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>nian</Hanyu>
@@ -1777,6 +2030,7 @@
         <MPSII>nian</MPSII>
         <Yale>nyan</Yale>
         <Tongyong>nian</Tongyong>
+        <Phonetic>ㄋㄧㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>niang</Hanyu>
@@ -1784,6 +2038,7 @@
         <MPSII>niang</MPSII>
         <Yale>nyang</Yale>
         <Tongyong>niang</Tongyong>
+        <Phonetic>ㄋㄧㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>niao</Hanyu>
@@ -1791,6 +2046,7 @@
         <MPSII>niau</MPSII>
         <Yale>nyau</Yale>
         <Tongyong>niao</Tongyong>
+        <Phonetic>ㄋㄧㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>nie</Hanyu>
@@ -1798,6 +2054,7 @@
         <MPSII>nie</MPSII>
         <Yale>nye</Yale>
         <Tongyong>nie</Tongyong>
+        <Phonetic>ㄋㄧㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>nin</Hanyu>
@@ -1805,6 +2062,7 @@
         <MPSII>nin</MPSII>
         <Yale>nin</Yale>
         <Tongyong>nin</Tongyong>
+        <Phonetic>ㄋㄧㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>ning</Hanyu>
@@ -1812,6 +2070,7 @@
         <MPSII>ning</MPSII>
         <Yale>ning</Yale>
         <Tongyong>ning</Tongyong>
+        <Phonetic>ㄋㄧㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>niu</Hanyu>
@@ -1819,6 +2078,7 @@
         <MPSII>niou</MPSII>
         <Yale>nyou</Yale>
         <Tongyong>niou</Tongyong>
+        <Phonetic>ㄋㄧㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>nong</Hanyu>
@@ -1826,6 +2086,7 @@
         <MPSII>nung</MPSII>
         <Yale>nung</Yale>
         <Tongyong>nong</Tongyong>
+        <Phonetic>ㄋㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>nou</Hanyu>
@@ -1833,6 +2094,7 @@
         <MPSII>nou</MPSII>
         <Yale>nou</Yale>
         <Tongyong>nou</Tongyong>
+        <Phonetic>ㄋㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>nu</Hanyu>
@@ -1840,6 +2102,7 @@
         <MPSII>nu</MPSII>
         <Yale>nu</Yale>
         <Tongyong>nu</Tongyong>
+        <Phonetic>ㄋㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>nuan</Hanyu>
@@ -1847,6 +2110,7 @@
         <MPSII>nuan</MPSII>
         <Yale>nwan</Yale>
         <Tongyong>nuan</Tongyong>
+        <Phonetic>ㄋㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>nun</Hanyu>
@@ -1854,6 +2118,7 @@
         <MPSII>nuen</MPSII>
         <Yale>nwen</Yale>
         <Tongyong>nun</Tongyong>
+        <Phonetic>ㄋㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>nuo</Hanyu>
@@ -1861,6 +2126,7 @@
         <MPSII>nuo</MPSII>
         <Yale>nwo</Yale>
         <Tongyong>nuo</Tongyong>
+        <Phonetic>ㄋㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>nu:</Hanyu>
@@ -1868,6 +2134,7 @@
         <MPSII>niu</MPSII>
         <Yale>nyu</Yale>
         <Tongyong>nyu</Tongyong>
+        <Phonetic>ㄋㄩ</Phonetic>
     </item>
     <item>
         <Hanyu>nu:e</Hanyu>
@@ -1875,6 +2142,7 @@
         <MPSII>niue</MPSII>
         <Yale>nywe</Yale>
         <Tongyong>nyue</Tongyong>
+        <Phonetic>ㄋㄩㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>ou</Hanyu>
@@ -1882,6 +2150,7 @@
         <MPSII>ou</MPSII>
         <Yale>ou</Yale>
         <Tongyong>ou</Tongyong>
+        <Phonetic>ㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>pa</Hanyu>
@@ -1889,6 +2158,7 @@
         <MPSII>pa</MPSII>
         <Yale>pa</Yale>
         <Tongyong>pa</Tongyong>
+        <Phonetic>ㄆㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>pai</Hanyu>
@@ -1896,6 +2166,7 @@
         <MPSII>pai</MPSII>
         <Yale>pai</Yale>
         <Tongyong>pai</Tongyong>
+        <Phonetic>ㄆㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>pan</Hanyu>
@@ -1903,6 +2174,7 @@
         <MPSII>pan</MPSII>
         <Yale>pan</Yale>
         <Tongyong>pan</Tongyong>
+        <Phonetic>ㄆㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>pang</Hanyu>
@@ -1910,6 +2182,7 @@
         <MPSII>pang</MPSII>
         <Yale>pang</Yale>
         <Tongyong>pang</Tongyong>
+        <Phonetic>ㄆㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>pao</Hanyu>
@@ -1917,6 +2190,7 @@
         <MPSII>pau</MPSII>
         <Yale>pau</Yale>
         <Tongyong>pao</Tongyong>
+        <Phonetic>ㄆㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>pei</Hanyu>
@@ -1924,6 +2198,7 @@
         <MPSII>pei</MPSII>
         <Yale>pei</Yale>
         <Tongyong>pei</Tongyong>
+        <Phonetic>ㄆㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>pen</Hanyu>
@@ -1931,6 +2206,7 @@
         <MPSII>pen</MPSII>
         <Yale>pen</Yale>
         <Tongyong>pen</Tongyong>
+        <Phonetic>ㄆㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>peng</Hanyu>
@@ -1938,6 +2214,7 @@
         <MPSII>peng</MPSII>
         <Yale>peng</Yale>
         <Tongyong>peng</Tongyong>
+        <Phonetic>ㄆㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>pi</Hanyu>
@@ -1945,6 +2222,7 @@
         <MPSII>pi</MPSII>
         <Yale>pi</Yale>
         <Tongyong>pi</Tongyong>
+        <Phonetic>ㄆㄧ</Phonetic>
     </item>
     <item>
         <Hanyu>pian</Hanyu>
@@ -1952,6 +2230,7 @@
         <MPSII>pian</MPSII>
         <Yale>pyan</Yale>
         <Tongyong>pian</Tongyong>
+        <Phonetic>ㄆㄧㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>piao</Hanyu>
@@ -1959,6 +2238,7 @@
         <MPSII>piau</MPSII>
         <Yale>pyau</Yale>
         <Tongyong>piao</Tongyong>
+        <Phonetic>ㄆㄧㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>pie</Hanyu>
@@ -1966,6 +2246,7 @@
         <MPSII>pie</MPSII>
         <Yale>pye</Yale>
         <Tongyong>pie</Tongyong>
+        <Phonetic>ㄆㄧㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>pin</Hanyu>
@@ -1973,6 +2254,7 @@
         <MPSII>pin</MPSII>
         <Yale>pin</Yale>
         <Tongyong>pin</Tongyong>
+        <Phonetic>ㄆㄧㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>ping</Hanyu>
@@ -1980,6 +2262,7 @@
         <MPSII>ping</MPSII>
         <Yale>ping</Yale>
         <Tongyong>ping</Tongyong>
+        <Phonetic>ㄆㄧㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>po</Hanyu>
@@ -1987,6 +2270,7 @@
         <MPSII>po</MPSII>
         <Yale>pwo</Yale>
         <Tongyong>po</Tongyong>
+        <Phonetic>ㄆㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>pou</Hanyu>
@@ -1994,6 +2278,7 @@
         <MPSII>pou</MPSII>
         <Yale>pou</Yale>
         <Tongyong>pou</Tongyong>
+        <Phonetic>ㄆㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>pu</Hanyu>
@@ -2001,6 +2286,7 @@
         <MPSII>pu</MPSII>
         <Yale>pu</Yale>
         <Tongyong>pu</Tongyong>
+        <Phonetic>ㄆㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>ran</Hanyu>
@@ -2008,6 +2294,7 @@
         <MPSII>ran</MPSII>
         <Yale>ran</Yale>
         <Tongyong>ran</Tongyong>
+        <Phonetic>ㄖㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>rang</Hanyu>
@@ -2015,6 +2302,7 @@
         <MPSII>rang</MPSII>
         <Yale>rang</Yale>
         <Tongyong>rang</Tongyong>
+        <Phonetic>ㄖㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>rao</Hanyu>
@@ -2022,6 +2310,7 @@
         <MPSII>rau</MPSII>
         <Yale>rau</Yale>
         <Tongyong>rao</Tongyong>
+        <Phonetic>ㄖㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>re</Hanyu>
@@ -2029,6 +2318,7 @@
         <MPSII>re</MPSII>
         <Yale>re</Yale>
         <Tongyong>re</Tongyong>
+        <Phonetic>ㄖㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>ren</Hanyu>
@@ -2036,6 +2326,7 @@
         <MPSII>ren</MPSII>
         <Yale>ren</Yale>
         <Tongyong>ren</Tongyong>
+        <Phonetic>ㄖㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>reng</Hanyu>
@@ -2043,6 +2334,7 @@
         <MPSII>reng</MPSII>
         <Yale>reng</Yale>
         <Tongyong>reng</Tongyong>
+        <Phonetic>ㄖㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>ri</Hanyu>
@@ -2050,6 +2342,7 @@
         <MPSII>r</MPSII>
         <Yale>r</Yale>
         <Tongyong>rih</Tongyong>
+        <Phonetic>ㄖ</Phonetic>
     </item>
     <item>
         <Hanyu>rong</Hanyu>
@@ -2057,6 +2350,7 @@
         <MPSII>rung</MPSII>
         <Yale>rung</Yale>
         <Tongyong>rong</Tongyong>
+        <Phonetic>ㄖㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>rou</Hanyu>
@@ -2064,6 +2358,7 @@
         <MPSII>rou</MPSII>
         <Yale>rou</Yale>
         <Tongyong>rou</Tongyong>
+        <Phonetic>ㄖㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>ru</Hanyu>
@@ -2071,6 +2366,7 @@
         <MPSII>ru</MPSII>
         <Yale>ru</Yale>
         <Tongyong>ru</Tongyong>
+        <Phonetic>ㄖㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>ruan</Hanyu>
@@ -2078,6 +2374,7 @@
         <MPSII>ruan</MPSII>
         <Yale>rwan</Yale>
         <Tongyong>ruan</Tongyong>
+        <Phonetic>ㄖㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>rui</Hanyu>
@@ -2085,6 +2382,7 @@
         <MPSII>ruei</MPSII>
         <Yale>rwei</Yale>
         <Tongyong>ruei</Tongyong>
+        <Phonetic>ㄖㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>run</Hanyu>
@@ -2092,6 +2390,7 @@
         <MPSII>ruen</MPSII>
         <Yale>rwun</Yale>
         <Tongyong>run</Tongyong>
+        <Phonetic>ㄖㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>ruo</Hanyu>
@@ -2099,6 +2398,7 @@
         <MPSII>ruo</MPSII>
         <Yale>rwo</Yale>
         <Tongyong>ruo</Tongyong>
+        <Phonetic>ㄖㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>sa</Hanyu>
@@ -2106,6 +2406,7 @@
         <MPSII>sa</MPSII>
         <Yale>sa</Yale>
         <Tongyong>sa</Tongyong>
+        <Phonetic>ㄙㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>sai</Hanyu>
@@ -2113,6 +2414,7 @@
         <MPSII>sai</MPSII>
         <Yale>sai</Yale>
         <Tongyong>sai</Tongyong>
+        <Phonetic>ㄙㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>san</Hanyu>
@@ -2120,6 +2422,7 @@
         <MPSII>san</MPSII>
         <Yale>san</Yale>
         <Tongyong>san</Tongyong>
+        <Phonetic>ㄙㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>sang</Hanyu>
@@ -2127,6 +2430,7 @@
         <MPSII>sang</MPSII>
         <Yale>sang</Yale>
         <Tongyong>sang</Tongyong>
+        <Phonetic>ㄙㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>sao</Hanyu>
@@ -2134,6 +2438,7 @@
         <MPSII>sau</MPSII>
         <Yale>sau</Yale>
         <Tongyong>sao</Tongyong>
+        <Phonetic>ㄙㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>se</Hanyu>
@@ -2141,6 +2446,7 @@
         <MPSII>se</MPSII>
         <Yale>se</Yale>
         <Tongyong>se</Tongyong>
+        <Phonetic>ㄙㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>sei</Hanyu>
@@ -2148,6 +2454,7 @@
         <MPSII>sei</MPSII>
         <Yale>sei</Yale>
         <Tongyong>sei</Tongyong>
+        <Phonetic>ㄙㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>sen</Hanyu>
@@ -2155,6 +2462,7 @@
         <MPSII>sen</MPSII>
         <Yale>sen</Yale>
         <Tongyong>sen</Tongyong>
+        <Phonetic>ㄙㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>seng</Hanyu>
@@ -2162,6 +2470,7 @@
         <MPSII>seng</MPSII>
         <Yale>seng</Yale>
         <Tongyong>seng</Tongyong>
+        <Phonetic>ㄙㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>sha</Hanyu>
@@ -2169,6 +2478,7 @@
         <MPSII>sha</MPSII>
         <Yale>sha</Yale>
         <Tongyong>sha</Tongyong>
+        <Phonetic>ㄕㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>shai</Hanyu>
@@ -2176,6 +2486,7 @@
         <MPSII>shai</MPSII>
         <Yale>shai</Yale>
         <Tongyong>shai</Tongyong>
+        <Phonetic>ㄕㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>shan</Hanyu>
@@ -2183,6 +2494,7 @@
         <MPSII>shan</MPSII>
         <Yale>shan</Yale>
         <Tongyong>shan</Tongyong>
+        <Phonetic>ㄕㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>shang</Hanyu>
@@ -2190,6 +2502,7 @@
         <MPSII>shang</MPSII>
         <Yale>shang</Yale>
         <Tongyong>shang</Tongyong>
+        <Phonetic>ㄕㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>shao</Hanyu>
@@ -2197,6 +2510,7 @@
         <MPSII>shau</MPSII>
         <Yale>shau</Yale>
         <Tongyong>shao</Tongyong>
+        <Phonetic>ㄕㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>she</Hanyu>
@@ -2204,6 +2518,7 @@
         <MPSII>she</MPSII>
         <Yale>she</Yale>
         <Tongyong>she</Tongyong>
+        <Phonetic>ㄕㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>shei</Hanyu>
@@ -2211,6 +2526,7 @@
         <MPSII>shei</MPSII>
         <Yale>shei</Yale>
         <Tongyong>shei</Tongyong>
+        <Phonetic>ㄕㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>shen</Hanyu>
@@ -2218,6 +2534,7 @@
         <MPSII>shen</MPSII>
         <Yale>shen</Yale>
         <Tongyong>shen</Tongyong>
+        <Phonetic>ㄕㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>sheng</Hanyu>
@@ -2225,6 +2542,7 @@
         <MPSII>sheng</MPSII>
         <Yale>sheng</Yale>
         <Tongyong>sheng</Tongyong>
+        <Phonetic>ㄕㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>shi</Hanyu>
@@ -2232,6 +2550,7 @@
         <MPSII>shr</MPSII>
         <Yale>shr</Yale>
         <Tongyong>shih</Tongyong>
+        <Phonetic>ㄕ</Phonetic>
     </item>
     <item>
         <Hanyu>shong</Hanyu>
@@ -2239,6 +2558,7 @@
         <MPSII>shung</MPSII>
         <Yale>shung</Yale>
         <Tongyong>shong</Tongyong>
+        <Phonetic>ㄕㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>shou</Hanyu>
@@ -2246,6 +2566,7 @@
         <MPSII>shou</MPSII>
         <Yale>shou</Yale>
         <Tongyong>shou</Tongyong>
+        <Phonetic>ㄕㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>shu</Hanyu>
@@ -2253,6 +2574,7 @@
         <MPSII>shu</MPSII>
         <Yale>shu</Yale>
         <Tongyong>shu</Tongyong>
+        <Phonetic>ㄕㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>shua</Hanyu>
@@ -2260,6 +2582,7 @@
         <MPSII>shua</MPSII>
         <Yale>shwa</Yale>
         <Tongyong>shua</Tongyong>
+        <Phonetic>ㄕㄨㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>shuai</Hanyu>
@@ -2267,6 +2590,7 @@
         <MPSII>shuai</MPSII>
         <Yale>shwai</Yale>
         <Tongyong>shuai</Tongyong>
+        <Phonetic>ㄕㄨㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>shuan</Hanyu>
@@ -2274,6 +2598,7 @@
         <MPSII>shuan</MPSII>
         <Yale>shwan</Yale>
         <Tongyong>shuan</Tongyong>
+        <Phonetic>ㄕㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>shuang</Hanyu>
@@ -2281,6 +2606,7 @@
         <MPSII>shuang</MPSII>
         <Yale>shwang</Yale>
         <Tongyong>shuang</Tongyong>
+        <Phonetic>ㄕㄨㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>shui</Hanyu>
@@ -2288,6 +2614,7 @@
         <MPSII>shuei</MPSII>
         <Yale>shwei</Yale>
         <Tongyong>shuei</Tongyong>
+        <Phonetic>ㄕㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>shun</Hanyu>
@@ -2295,6 +2622,7 @@
         <MPSII>shuen</MPSII>
         <Yale>shwun</Yale>
         <Tongyong>shun</Tongyong>
+        <Phonetic>ㄕㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>shuo</Hanyu>
@@ -2302,6 +2630,7 @@
         <MPSII>shuo</MPSII>
         <Yale>shwo</Yale>
         <Tongyong>shuo</Tongyong>
+        <Phonetic>ㄕㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>xi</Hanyu>
@@ -2309,6 +2638,7 @@
         <MPSII>shi</MPSII>
         <Yale>syi</Yale>
         <Tongyong>si</Tongyong>
+        <Phonetic>ㄒㄧ</Phonetic>
     </item>
     <item>
         <Hanyu>xia</Hanyu>
@@ -2316,6 +2646,7 @@
         <MPSII>shia</MPSII>
         <Yale>sya</Yale>
         <Tongyong>sia</Tongyong>
+        <Phonetic>ㄒㄧㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>xian</Hanyu>
@@ -2323,6 +2654,7 @@
         <MPSII>shian</MPSII>
         <Yale>syan</Yale>
         <Tongyong>sian</Tongyong>
+        <Phonetic>ㄒㄧㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>xiang</Hanyu>
@@ -2330,6 +2662,7 @@
         <MPSII>shiang</MPSII>
         <Yale>syang</Yale>
         <Tongyong>siang</Tongyong>
+        <Phonetic>ㄒㄧㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>xiao</Hanyu>
@@ -2337,6 +2670,7 @@
         <MPSII>shiau</MPSII>
         <Yale>syau</Yale>
         <Tongyong>siao</Tongyong>
+        <Phonetic>ㄒㄧㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>xie</Hanyu>
@@ -2344,6 +2678,7 @@
         <MPSII>shie</MPSII>
         <Yale>sye</Yale>
         <Tongyong>sie</Tongyong>
+        <Phonetic>ㄒㄧㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>si</Hanyu>
@@ -2351,6 +2686,7 @@
         <MPSII>sz</MPSII>
         <Yale>sz</Yale>
         <Tongyong>sih</Tongyong>
+        <Phonetic>ㄙ</Phonetic>
     </item>
     <item>
         <Hanyu>xin</Hanyu>
@@ -2358,6 +2694,7 @@
         <MPSII>shin</MPSII>
         <Yale>syin</Yale>
         <Tongyong>sin</Tongyong>
+        <Phonetic>ㄒㄧㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>xing</Hanyu>
@@ -2365,6 +2702,7 @@
         <MPSII>shing</MPSII>
         <Yale>sying</Yale>
         <Tongyong>sing</Tongyong>
+        <Phonetic>ㄒㄧㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>xiu</Hanyu>
@@ -2372,6 +2710,7 @@
         <MPSII>shiou</MPSII>
         <Yale>syou</Yale>
         <Tongyong>siou</Tongyong>
+        <Phonetic>ㄒㄧㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>song</Hanyu>
@@ -2379,6 +2718,7 @@
         <MPSII>sung</MPSII>
         <Yale>sung</Yale>
         <Tongyong>song</Tongyong>
+        <Phonetic>ㄙㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>sou</Hanyu>
@@ -2386,6 +2726,7 @@
         <MPSII>sou</MPSII>
         <Yale>sou</Yale>
         <Tongyong>sou</Tongyong>
+        <Phonetic>ㄙㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>su</Hanyu>
@@ -2393,6 +2734,7 @@
         <MPSII>su</MPSII>
         <Yale>su</Yale>
         <Tongyong>su</Tongyong>
+        <Phonetic>ㄙㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>suan</Hanyu>
@@ -2400,6 +2742,7 @@
         <MPSII>suan</MPSII>
         <Yale>swan</Yale>
         <Tongyong>suan</Tongyong>
+        <Phonetic>ㄙㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>sui</Hanyu>
@@ -2407,6 +2750,7 @@
         <MPSII>suei</MPSII>
         <Yale>swei</Yale>
         <Tongyong>suei</Tongyong>
+        <Phonetic>ㄙㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>sun</Hanyu>
@@ -2414,6 +2758,7 @@
         <MPSII>suen</MPSII>
         <Yale>swen</Yale>
         <Tongyong>sun</Tongyong>
+        <Phonetic>ㄙㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>suo</Hanyu>
@@ -2421,6 +2766,7 @@
         <MPSII>suo</MPSII>
         <Yale>swo</Yale>
         <Tongyong>suo</Tongyong>
+        <Phonetic>ㄙㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>xiong</Hanyu>
@@ -2428,6 +2774,7 @@
         <MPSII>shiung</MPSII>
         <Yale>syung</Yale>
         <Tongyong>syong</Tongyong>
+        <Phonetic>ㄒㄩㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>xu</Hanyu>
@@ -2435,6 +2782,7 @@
         <MPSII>shiu</MPSII>
         <Yale>syu</Yale>
         <Tongyong>syu</Tongyong>
+        <Phonetic>ㄒㄩ</Phonetic>
     </item>
     <item>
         <Hanyu>xuan</Hanyu>
@@ -2442,6 +2790,7 @@
         <MPSII>shiuan</MPSII>
         <Yale>sywan</Yale>
         <Tongyong>syuan</Tongyong>
+        <Phonetic>ㄒㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>xue</Hanyu>
@@ -2449,6 +2798,7 @@
         <MPSII>shiue</MPSII>
         <Yale>sywe</Yale>
         <Tongyong>syue</Tongyong>
+        <Phonetic>ㄒㄩㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>xun</Hanyu>
@@ -2456,6 +2806,7 @@
         <MPSII>shiun</MPSII>
         <Yale>syun</Yale>
         <Tongyong>syun</Tongyong>
+        <Phonetic>ㄒㄩㄋ</Phonetic>
     </item>
     <item>
         <Hanyu>ta</Hanyu>
@@ -2463,6 +2814,7 @@
         <MPSII>ta</MPSII>
         <Yale>ta</Yale>
         <Tongyong>ta</Tongyong>
+        <Phonetic>ㄊㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>tai</Hanyu>
@@ -2470,6 +2822,7 @@
         <MPSII>tai</MPSII>
         <Yale>tai</Yale>
         <Tongyong>tai</Tongyong>
+        <Phonetic>ㄊㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>tan</Hanyu>
@@ -2477,6 +2830,7 @@
         <MPSII>tan</MPSII>
         <Yale>tan</Yale>
         <Tongyong>tan</Tongyong>
+        <Phonetic>ㄊㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>tang</Hanyu>
@@ -2484,6 +2838,7 @@
         <MPSII>tang</MPSII>
         <Yale>tang</Yale>
         <Tongyong>tang</Tongyong>
+        <Phonetic>ㄊㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>tao</Hanyu>
@@ -2491,6 +2846,7 @@
         <MPSII>tau</MPSII>
         <Yale>tau</Yale>
         <Tongyong>tao</Tongyong>
+        <Phonetic>ㄊㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>te</Hanyu>
@@ -2498,6 +2854,7 @@
         <MPSII>te</MPSII>
         <Yale>te</Yale>
         <Tongyong>te</Tongyong>
+        <Phonetic>ㄊㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>teng</Hanyu>
@@ -2505,6 +2862,7 @@
         <MPSII>teng</MPSII>
         <Yale>teng</Yale>
         <Tongyong>teng</Tongyong>
+        <Phonetic>ㄊㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>ti</Hanyu>
@@ -2512,6 +2870,7 @@
         <MPSII>ti</MPSII>
         <Yale>ti</Yale>
         <Tongyong>ti</Tongyong>
+        <Phonetic>ㄊㄧ</Phonetic>
     </item>
     <item>
         <Hanyu>tian</Hanyu>
@@ -2519,6 +2878,7 @@
         <MPSII>tian</MPSII>
         <Yale>tyan</Yale>
         <Tongyong>tian</Tongyong>
+        <Phonetic>ㄊㄧㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>tiao</Hanyu>
@@ -2526,6 +2886,7 @@
         <MPSII>tiau</MPSII>
         <Yale>tyau</Yale>
         <Tongyong>tiao</Tongyong>
+        <Phonetic>ㄊㄧㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>tie</Hanyu>
@@ -2533,6 +2894,7 @@
         <MPSII>tie</MPSII>
         <Yale>tye</Yale>
         <Tongyong>tie</Tongyong>
+        <Phonetic>ㄊㄧㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>ting</Hanyu>
@@ -2540,6 +2902,7 @@
         <MPSII>ting</MPSII>
         <Yale>ting</Yale>
         <Tongyong>ting</Tongyong>
+        <Phonetic>ㄊㄧㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>tong</Hanyu>
@@ -2547,6 +2910,7 @@
         <MPSII>tung</MPSII>
         <Yale>tung</Yale>
         <Tongyong>tong</Tongyong>
+        <Phonetic>ㄊㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>tou</Hanyu>
@@ -2554,6 +2918,7 @@
         <MPSII>tou</MPSII>
         <Yale>tou</Yale>
         <Tongyong>tou</Tongyong>
+        <Phonetic>ㄊㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>tu</Hanyu>
@@ -2561,6 +2926,7 @@
         <MPSII>tu</MPSII>
         <Yale>tu</Yale>
         <Tongyong>tu</Tongyong>
+        <Phonetic>ㄊㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>tuan</Hanyu>
@@ -2568,6 +2934,7 @@
         <MPSII>tuan</MPSII>
         <Yale>twan</Yale>
         <Tongyong>tuan</Tongyong>
+        <Phonetic>ㄊㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>tui</Hanyu>
@@ -2575,6 +2942,7 @@
         <MPSII>tuei</MPSII>
         <Yale>twei</Yale>
         <Tongyong>tuei</Tongyong>
+        <Phonetic>ㄊㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>tun</Hanyu>
@@ -2582,6 +2950,7 @@
         <MPSII>tuen</MPSII>
         <Yale>twen</Yale>
         <Tongyong>tun</Tongyong>
+        <Phonetic>ㄊㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>tuo</Hanyu>
@@ -2589,6 +2958,7 @@
         <MPSII>tuo</MPSII>
         <Yale>two</Yale>
         <Tongyong>tuo</Tongyong>
+        <Phonetic>ㄊㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>wa</Hanyu>
@@ -2596,6 +2966,7 @@
         <MPSII>wa</MPSII>
         <Yale>wa</Yale>
         <Tongyong>wa</Tongyong>
+        <Phonetic>ㄨㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>wai</Hanyu>
@@ -2603,6 +2974,7 @@
         <MPSII>wai</MPSII>
         <Yale>wai</Yale>
         <Tongyong>wai</Tongyong>
+        <Phonetic>ㄨㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>wan</Hanyu>
@@ -2610,6 +2982,7 @@
         <MPSII>wan</MPSII>
         <Yale>wan</Yale>
         <Tongyong>wan</Tongyong>
+        <Phonetic>ㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>wang</Hanyu>
@@ -2617,6 +2990,7 @@
         <MPSII>wang</MPSII>
         <Yale>wang</Yale>
         <Tongyong>wang</Tongyong>
+        <Phonetic>ㄨㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>wei</Hanyu>
@@ -2624,6 +2998,7 @@
         <MPSII>wei</MPSII>
         <Yale>wei</Yale>
         <Tongyong>wei</Tongyong>
+        <Phonetic>ㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>wo</Hanyu>
@@ -2631,6 +3006,7 @@
         <MPSII>wo</MPSII>
         <Yale>wo</Yale>
         <Tongyong>wo</Tongyong>
+        <Phonetic>ㄨㄛ</Phonetic>
     </item>
     <item>
         <Hanyu>weng</Hanyu>
@@ -2638,6 +3014,7 @@
         <MPSII>weng</MPSII>
         <Yale>weng</Yale>
         <Tongyong>wong</Tongyong>
+        <Phonetic>ㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>wu</Hanyu>
@@ -2645,6 +3022,7 @@
         <MPSII>wu</MPSII>
         <Yale>wu</Yale>
         <Tongyong>wu</Tongyong>
+        <Phonetic>ㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>wen</Hanyu>
@@ -2652,6 +3030,7 @@
         <MPSII>wen</MPSII>
         <Yale>wen</Yale>
         <Tongyong>wun</Tongyong>
+        <Phonetic>ㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>ya</Hanyu>
@@ -2659,6 +3038,7 @@
         <MPSII>ya</MPSII>
         <Yale>ya</Yale>
         <Tongyong>ya</Tongyong>
+        <Phonetic>ㄧㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>yan</Hanyu>
@@ -2666,6 +3046,7 @@
         <MPSII>yan</MPSII>
         <Yale>yan</Yale>
         <Tongyong>yan</Tongyong>
+        <Phonetic>ㄧㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>yang</Hanyu>
@@ -2673,6 +3054,7 @@
         <MPSII>yang</MPSII>
         <Yale>yang</Yale>
         <Tongyong>yang</Tongyong>
+        <Phonetic>ㄧㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>yao</Hanyu>
@@ -2680,6 +3062,7 @@
         <MPSII>yau</MPSII>
         <Yale>yau</Yale>
         <Tongyong>yao</Tongyong>
+        <Phonetic>ㄧㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>ye</Hanyu>
@@ -2687,6 +3070,7 @@
         <MPSII>ye</MPSII>
         <Yale>ye</Yale>
         <Tongyong>ye</Tongyong>
+        <Phonetic>ㄧㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>yi</Hanyu>
@@ -2694,6 +3078,7 @@
         <MPSII>yi</MPSII>
         <Yale>yi</Yale>
         <Tongyong>yi</Tongyong>
+        <Phonetic>ㄧ</Phonetic>
     </item>
     <item>
         <Hanyu>yin</Hanyu>
@@ -2701,6 +3086,7 @@
         <MPSII>yin</MPSII>
         <Yale>yin</Yale>
         <Tongyong>yin</Tongyong>
+        <Phonetic>ㄧㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>ying</Hanyu>
@@ -2708,6 +3094,7 @@
         <MPSII>ying</MPSII>
         <Yale>ying</Yale>
         <Tongyong>ying</Tongyong>
+        <Phonetic>ㄧㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>yong</Hanyu>
@@ -2715,6 +3102,7 @@
         <MPSII>yung</MPSII>
         <Yale>yung</Yale>
         <Tongyong>yong</Tongyong>
+        <Phonetic>ㄩㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>you</Hanyu>
@@ -2722,6 +3110,7 @@
         <MPSII>you</MPSII>
         <Yale>you</Yale>
         <Tongyong>you</Tongyong>
+        <Phonetic>ㄧㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>yu</Hanyu>
@@ -2729,6 +3118,7 @@
         <MPSII>yu</MPSII>
         <Yale>yu</Yale>
         <Tongyong>yu</Tongyong>
+        <Phonetic>ㄩ</Phonetic>
     </item>
     <item>
         <Hanyu>yuan</Hanyu>
@@ -2736,6 +3126,7 @@
         <MPSII>yuan</MPSII>
         <Yale>ywan</Yale>
         <Tongyong>yuan</Tongyong>
+        <Phonetic>ㄩㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>yue</Hanyu>
@@ -2743,6 +3134,7 @@
         <MPSII>yue</MPSII>
         <Yale>ywe</Yale>
         <Tongyong>yue</Tongyong>
+        <Phonetic>ㄩㄝ</Phonetic>
     </item>
     <item>
         <Hanyu>yun</Hanyu>
@@ -2750,6 +3142,7 @@
         <MPSII>yun</MPSII>
         <Yale>yun</Yale>
         <Tongyong>yun</Tongyong>
+        <Phonetic>ㄩㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>za</Hanyu>
@@ -2757,6 +3150,7 @@
         <MPSII>tza</MPSII>
         <Yale>dza</Yale>
         <Tongyong>za</Tongyong>
+        <Phonetic>ㄗㄚ</Phonetic>
     </item>
     <item>
         <Hanyu>zai</Hanyu>
@@ -2764,6 +3158,7 @@
         <MPSII>tzai</MPSII>
         <Yale>dzai</Yale>
         <Tongyong>zai</Tongyong>
+        <Phonetic>ㄗㄞ</Phonetic>
     </item>
     <item>
         <Hanyu>zan</Hanyu>
@@ -2771,6 +3166,7 @@
         <MPSII>tzan</MPSII>
         <Yale>dzan</Yale>
         <Tongyong>zan</Tongyong>
+        <Phonetic>ㄗㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>zang</Hanyu>
@@ -2778,6 +3174,7 @@
         <MPSII>tzang</MPSII>
         <Yale>dzang</Yale>
         <Tongyong>zang</Tongyong>
+        <Phonetic>ㄗㄤ</Phonetic>
     </item>
     <item>
         <Hanyu>zao</Hanyu>
@@ -2785,6 +3182,7 @@
         <MPSII>tzau</MPSII>
         <Yale>dzau</Yale>
         <Tongyong>zao</Tongyong>
+        <Phonetic>ㄗㄠ</Phonetic>
     </item>
     <item>
         <Hanyu>ze</Hanyu>
@@ -2792,6 +3190,7 @@
         <MPSII>tze</MPSII>
         <Yale>dze</Yale>
         <Tongyong>ze</Tongyong>
+        <Phonetic>ㄗㄜ</Phonetic>
     </item>
     <item>
         <Hanyu>zei</Hanyu>
@@ -2799,6 +3198,7 @@
         <MPSII>tzei</MPSII>
         <Yale>dzei</Yale>
         <Tongyong>zei</Tongyong>
+        <Phonetic>ㄗㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>zen</Hanyu>
@@ -2806,6 +3206,7 @@
         <MPSII>tzen</MPSII>
         <Yale>dzen</Yale>
         <Tongyong>zen</Tongyong>
+        <Phonetic>ㄗㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>zeng</Hanyu>
@@ -2813,6 +3214,7 @@
         <MPSII>tzeng</MPSII>
         <Yale>dzeng</Yale>
         <Tongyong>zeng</Tongyong>
+        <Phonetic>ㄗㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>zi</Hanyu>
@@ -2820,6 +3222,7 @@
         <MPSII>tz</MPSII>
         <Yale>dz</Yale>
         <Tongyong>zih</Tongyong>
+        <Phonetic>ㄗ</Phonetic>
     </item>
     <item>
         <Hanyu>zong</Hanyu>
@@ -2827,6 +3230,7 @@
         <MPSII>tzung</MPSII>
         <Yale>dzung</Yale>
         <Tongyong>zong</Tongyong>
+        <Phonetic>ㄗㄨㄥ</Phonetic>
     </item>
     <item>
         <Hanyu>zou</Hanyu>
@@ -2834,6 +3238,7 @@
         <MPSII>tzou</MPSII>
         <Yale>dzou</Yale>
         <Tongyong>zou</Tongyong>
+        <Phonetic>ㄗㄡ</Phonetic>
     </item>
     <item>
         <Hanyu>zu</Hanyu>
@@ -2841,6 +3246,7 @@
         <MPSII>tzu</MPSII>
         <Yale>dzu</Yale>
         <Tongyong>zu</Tongyong>
+        <Phonetic>ㄗㄨ</Phonetic>
     </item>
     <item>
         <Hanyu>zuan</Hanyu>
@@ -2848,6 +3254,7 @@
         <MPSII>tzuan</MPSII>
         <Yale>dzwan</Yale>
         <Tongyong>zuan</Tongyong>
+        <Phonetic>ㄗㄨㄢ</Phonetic>
     </item>
     <item>
         <Hanyu>zui</Hanyu>
@@ -2855,6 +3262,7 @@
         <MPSII>tzuei</MPSII>
         <Yale>dzwei</Yale>
         <Tongyong>zuei</Tongyong>
+        <Phonetic>ㄗㄨㄟ</Phonetic>
     </item>
     <item>
         <Hanyu>zun</Hanyu>
@@ -2862,6 +3270,7 @@
         <MPSII>tzuen</MPSII>
         <Yale>dzwen</Yale>
         <Tongyong>zun</Tongyong>
+        <Phonetic>ㄗㄨㄣ</Phonetic>
     </item>
     <item>
         <Hanyu>zuo</Hanyu>
@@ -2869,5 +3278,6 @@
         <MPSII>tzuo</MPSII>
         <Yale>dzwo</Yale>
         <Tongyong>zuo</Tongyong>
+        <Phonetic>ㄗㄨㄛ</Phonetic>
     </item>
 </pinyin_mapping>

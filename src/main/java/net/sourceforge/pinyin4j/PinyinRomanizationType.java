@@ -56,6 +56,11 @@ class PinyinRomanizationType {
   static final PinyinRomanizationType GWOYEU_ROMATZYH = new PinyinRomanizationType("Gwoyeu");
 
   /**
+   * Phonetic system
+   */
+  static final PinyinRomanizationType PHONETIC = new PinyinRomanizationType("Phonetic");
+
+  /**
    * Constructor
    */
   protected PinyinRomanizationType(String tagName) {

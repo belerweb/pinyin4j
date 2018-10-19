@@ -118,6 +118,7 @@ public class Pinyin4jAppletDemo extends JApplet {
       unformattedCharPanel.add(getUnformattedMPS2PinyinPanel(), null); // Generated
       unformattedCharPanel.add(getUnformattedYalePinyinPanel(), null); // Generated
       unformattedCharPanel.add(getUnformattedGwoyeuRomatzyhPanel(), null); // Generated
+      unformattedCharPanel.add(getUnformattedPhoneticPanel(), null); // Generated
     }
     return unformattedCharPanel;
   }
@@ -297,6 +298,23 @@ public class Pinyin4jAppletDemo extends JApplet {
   }
 
   /**
+   * This method initializes unformattedPhoneticPanel
+   *
+   * @return javax.swing.JPanel
+   */
+  private JPanel getUnformattedPhoneticPanel() {
+    if (unformattedPhoneticPanel == null) {
+      unformattedPhoneticLabel = new JLabel();
+      unformattedPhoneticLabel.setText("Phonetic"); // Generated
+      unformattedPhoneticPanel = new JPanel();
+      unformattedPhoneticPanel.setLayout(new BorderLayout()); // Generated
+      unformattedPhoneticPanel.add(unformattedPhoneticLabel, java.awt.BorderLayout.NORTH); // Generated
+      unformattedPhoneticPanel.add(getUnformattedPhoneticScrollPane(), BorderLayout.CENTER); // Generated
+    }
+    return unformattedPhoneticPanel;
+  }
+
+  /**
    * This method initializes unformattedGwoyeuRomatzyhTextArea
    * 
    * @return javax.swing.JTextArea
@@ -308,6 +326,20 @@ public class Pinyin4jAppletDemo extends JApplet {
       unformattedGwoyeuRomatzyhTextArea.setLineWrap(true); // Generated
     }
     return unformattedGwoyeuRomatzyhTextArea;
+  }
+
+  /**
+   * This method initializes unformattedPhoneticTextArea
+   *
+   * @return javax.swing.JTextArea
+   */
+  private JTextArea getUnformattedPhoneticTextArea() {
+    if (unformattedPhoneticTextArea == null) {
+      unformattedPhoneticTextArea = new JTextArea();
+      unformattedPhoneticTextArea.setEditable(false); // Generated
+      unformattedPhoneticTextArea.setLineWrap(true); // Generated
+    }
+    return unformattedPhoneticTextArea;
   }
 
   /**
@@ -386,6 +418,19 @@ public class Pinyin4jAppletDemo extends JApplet {
       unformattedGwoyeuRomatzyhScrollPane.setViewportView(getUnformattedGwoyeuRomatzyhTextArea()); // Generated
     }
     return unformattedGwoyeuRomatzyhScrollPane;
+  }
+
+  /**
+   * This method initializes unformattedGwoyeuRomatzyhScrollPane
+   *
+   * @return javax.swing.JScrollPane
+   */
+  private JScrollPane getUnformattedPhoneticScrollPane() {
+    if (unformattedPhoneticScrollPane == null) {
+      unformattedPhoneticScrollPane = new JScrollPane();
+      unformattedPhoneticScrollPane.setViewportView(getUnformattedPhoneticTextArea()); // Generated
+    }
+    return unformattedPhoneticScrollPane;
   }
 
   static public void main(String argv[]) {
@@ -538,6 +583,8 @@ public class Pinyin4jAppletDemo extends JApplet {
               .toYalePinyinStringArray(chineseCharacter)));
           unformattedGwoyeuRomatzyhTextArea.setText(concatPinyinStringArray(PinyinHelper
               .toGwoyeuRomatzyhStringArray(chineseCharacter)));
+          unformattedPhoneticTextArea.setText(concatPinyinStringArray(PinyinHelper
+              .toPhoneticStringArray(chineseCharacter)));
         }
 
         /**
@@ -733,6 +780,12 @@ public class Pinyin4jAppletDemo extends JApplet {
 
   private JTextArea unformattedGwoyeuRomatzyhTextArea = null;
 
+  private JPanel unformattedPhoneticPanel = null;
+
+  private JLabel unformattedPhoneticLabel = null;
+
+  private JTextArea unformattedPhoneticTextArea = null;
+
   private JScrollPane unformattedMPS2PinyinScrollPane = null;
 
   private JScrollPane unformattedHanyuPinyinScrollPane = null;
@@ -744,4 +797,6 @@ public class Pinyin4jAppletDemo extends JApplet {
   private JScrollPane unformattedYalePinyinScrollPane = null;
 
   private JScrollPane unformattedGwoyeuRomatzyhScrollPane = null;
+
+  private JScrollPane unformattedPhoneticScrollPane = null;
 } // @jve:decl-index=0:visual-constraint="10,10"

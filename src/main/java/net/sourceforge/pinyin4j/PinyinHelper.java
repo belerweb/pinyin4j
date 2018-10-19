@@ -130,6 +130,42 @@ public class PinyinHelper {
         return convertToTargetPinyinStringArray(ch, PinyinRomanizationType.TONGYONG_PINYIN);
     }
 
+  /**
+   * Get all unformmatted Phonetic resentations of a single Chinese
+   * character (both Simplified and Tranditional)
+   *
+   * @param ch the given Chinese character
+   * @return a String array contains all unformmatted Phonetic
+   * presentations with tone numbers; null for non-Chinese character
+   * @see #toHanyuPinyinStringArray(char)
+   */
+  static public String[] toPhoneticStringArray(char ch) {
+    return convertToPhonetictringArray(ch);
+  }
+
+  /**
+   * @param ch the given Chinese character
+   * @return Gwoyeu Romatzyh string representations corresponding to the given
+   * Chinese character in array format; null if error happens
+   * @see PinyinRomanizationType
+   */
+  private static String[] convertToPhonetictringArray(char ch) {
+    String[] hanyuPinyinStringArray = getUnformattedHanyuPinyinStringArray(ch);
+
+    if (null != hanyuPinyinStringArray) {
+      String[] targetPinyinStringArray = new String[hanyuPinyinStringArray.length];
+
+      for (int i = 0; i < hanyuPinyinStringArray.length; i++) {
+        targetPinyinStringArray[i] =
+            PhoneticTranslator.convertHanyuPinyinToPhonetic(hanyuPinyinStringArray[i]);
+      }
+
+      return targetPinyinStringArray;
+
+    } else
+      return ARR_EMPTY;
+  }
+
     /**
      * Get all unformmatted Wade-Giles presentations of a single Chinese
      * character (both Simplified and Tranditional)

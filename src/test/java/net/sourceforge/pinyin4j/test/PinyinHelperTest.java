@@ -273,6 +273,106 @@ public class PinyinHelperTest extends TestCase {
     }
   }
 
+  public void testToPhoneticStringArray() {
+    // any input of non-Chinese characters will return null
+    {
+      assertNull(PinyinHelper.toPhoneticStringArray('A'));
+      assertNull(PinyinHelper.toPhoneticStringArray('z'));
+      assertNull(PinyinHelper.toPhoneticStringArray(','));
+      assertNull(PinyinHelper.toPhoneticStringArray('。'));
+    }
+
+    // Chinese characters
+    // single pronounciation
+    {
+      String[] expectedPinyinArray = new String[] {"ㄌㄧˇ"};
+      String[] phoneticArray = PinyinHelper.toPhoneticStringArray('李');
+
+      assertEquals(expectedPinyinArray.length, phoneticArray.length);
+
+      for (int i = 0; i < expectedPinyinArray.length; i++) {
+        assertEquals(expectedPinyinArray[i], phoneticArray[i]);
+      }
+    }
+    {
+      String[] expectedPinyinArray = new String[] {"ㄑㄧㄡˊ"};
+      String[] phoneticArray = PinyinHelper.toPhoneticStringArray('球');
+
+      assertEquals(expectedPinyinArray.length, phoneticArray.length);
+
+      for (int i = 0; i < expectedPinyinArray.length; i++) {
+        assertEquals(expectedPinyinArray[i], phoneticArray[i]);
+      }
+    }
+    {
+      String[] expectedPinyinArray = new String[] {"ㄓㄨㄤ"};
+      String[] phoneticArray = PinyinHelper.toPhoneticStringArray('桩');
+
+      assertEquals(expectedPinyinArray.length, phoneticArray.length);
+
+      for (int i = 0; i < expectedPinyinArray.length; i++) {
+        assertEquals(expectedPinyinArray[i], phoneticArray[i]);
+      }
+    }
+
+    {
+      String[] expectedPinyinArray = new String[] {"ㄈㄨˋ"};
+      String[] phoneticArray = PinyinHelper.toPhoneticStringArray('付');
+
+      assertEquals(expectedPinyinArray.length, phoneticArray.length);
+
+      for (int i = 0; i < expectedPinyinArray.length; i++) {
+        assertEquals(expectedPinyinArray[i], phoneticArray[i]);
+      }
+    }
+
+    // multiple pronounciations
+    {
+      String[] expectedPinyinArray = new String[] {"ㄔㄨㄢˊ", "ㄓㄨㄢˋ"};
+      String[] phoneticArray = PinyinHelper.toPhoneticStringArray('传');
+
+      assertEquals(expectedPinyinArray.length, phoneticArray.length);
+
+      for (int i = 0; i < expectedPinyinArray.length; i++) {
+        assertEquals(expectedPinyinArray[i], phoneticArray[i]);
+      }
+    }
+
+    {
+      String[] expectedPinyinArray = new String[] {"ㄇㄜ˙", "ㄇㄚ˙", "ㄧㄠ"};
+      String[] phoneticArray = PinyinHelper.toPhoneticStringArray('么');
+
+      assertEquals(expectedPinyinArray.length, phoneticArray.length);
+
+      for (int i = 0; i < expectedPinyinArray.length; i++) {
+        assertEquals(expectedPinyinArray[i], phoneticArray[i]);
+      }
+    }
+
+    {
+      String[] expectedPinyinArray = new String[] {"ㄌㄩˋ", "ㄌㄨˋ"};
+      String[] phoneticArray = PinyinHelper.toPhoneticStringArray('绿');
+
+      assertEquals(expectedPinyinArray.length, phoneticArray.length);
+
+      for (int i = 0; i < expectedPinyinArray.length; i++) {
+        assertEquals(expectedPinyinArray[i], phoneticArray[i]);
+      }
+    }
+
+    {
+      String[] expectedPinyinArray = new String[] {"ㄏㄨㄚˊ", "ㄏㄨㄚˋ", "ㄏㄨㄚ"};
+      String[] phoneticArray = PinyinHelper.toPhoneticStringArray('華');
+
+      assertEquals(expectedPinyinArray.length, phoneticArray.length);
+
+      for (int i = 0; i < expectedPinyinArray.length; i++) {
+        assertEquals(expectedPinyinArray[i], phoneticArray[i]);
+      }
+    }
+
+  }
+
   public void testToGwoyeuRomatzyhStringArray() {
     // any input of non-Chinese characters will return null
     {
