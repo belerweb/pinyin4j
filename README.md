@@ -1,33 +1,14 @@
 pinyin4j
 ========
 
-A copy of http://sourceforge.net/projects/pinyin4j, then deploy it to maven central repository.
+A copy of https://github.com/belerweb/pinyin4j, then fix a bug
 
-### Download ###
-Download the jar via maven:
-```xml
-<dependency>
-    <groupId>com.belerweb</groupId>
-    <artifactId>pinyin4j</artifactId>
-    <version>2.5.0</version>
-</dependency>
-```
+### bug修复以及新增功能 ###
+1.修复 "一日千里" 调用PinyinHelper.toHanYuPinyinString输出 "yi,ri,qianli" 末尾分隔符丢失的问题
 
-### QQ Group ###
-QQ群：479540440
+2.自定义挂载的pinyindb除了可以使用绝对路径，还新支持放在resources下被打入jar包的文件。
+如我有个module，在它resources下放个资源文件 resources/pinyindb/multi_pinyin_extends.txt
+这个module被打成jar包后，依然可以通过MultiPinyinConfig.multiPinyinPath = "/pinyindb/multi_pinyin_extends.txt"来设置挂载的pinyindb
 
-### 多音字识别 ###
-在pinyin4j的基础上添加了多音字识别，带近一万个多音词，但是这远远不够，所以用户可设置外挂词库	
-
-### 外挂多音词库 ###
-用户配置的外挂词库会覆盖系统中相同词的读音,可用于纠错
-
-配置方式很简单,只需要配置路径即可 
-```
-MultiPinyinConfig.multiPinyinPath="/Users/yiboliu/my_multi_pinyin.txt"
-```
-
-格式同系统的多音词库,如: 
-```
-吸血鬼日记 (xi1,xue4,gui3,ri4,ji4)
-```
+### 使用方法 ###
+好像原作者已经好久不维护了，提交了merge request也没响应，没拒绝也没通过。我也没发到maven中央仓库，所以需要deploy到自己到私服上使用。

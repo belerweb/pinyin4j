@@ -285,6 +285,8 @@ public class PinyinHelper {
             }
             while (currentTrie != null);
 
+            current = success + 1; //防止次尾部词组在词组前缀树中仅匹配一部分(没匹配全)导致的次尾部分隔符丢失
+
             if (result == null) {//如果在前缀树中没有匹配到，那么它就不能转换为拼音，直接输出或者去掉
                 if (retain) resultPinyinStrBuf.append(chars[i]);
             } else {
