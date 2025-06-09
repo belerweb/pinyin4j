@@ -31,3 +31,5 @@ MultiPinyinConfig.multiPinyinPath="/Users/yiboliu/my_multi_pinyin.txt"
 ```
 吸血鬼日记 (xi1,xue4,gui3,ri4,ji4)
 ```
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
