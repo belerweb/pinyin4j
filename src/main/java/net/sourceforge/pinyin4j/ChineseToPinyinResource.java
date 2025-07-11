@@ -63,7 +63,7 @@ class ChineseToPinyinResource {
             final String resourceName = "/pinyindb/unicode_to_hanyu_pinyin.txt";
             final String resourceMultiName = "/pinyindb/multi_pinyin.txt";
 
-            setUnicodeToHanyuPinyinTable(new Trie());
+            setUnicodeToHanyuPinyinTable(GlobalTrie.getTrie());
             getUnicodeToHanyuPinyinTable().load(ResourceHelper.getResourceInputStream(resourceName));
 
             getUnicodeToHanyuPinyinTable().loadMultiPinyin(ResourceHelper.getResourceInputStream(resourceMultiName));

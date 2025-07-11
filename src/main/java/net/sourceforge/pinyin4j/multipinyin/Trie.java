@@ -2,6 +2,7 @@ package net.sourceforge.pinyin4j.multipinyin;
 
 import java.io.*;
 import java.util.Hashtable;
+import java.util.Objects;
 
 /**
  * Created by 刘一波 on 16/3/4.
@@ -73,43 +74,7 @@ public class Trie {
             bufferedReader = new BufferedReader(inputStreamReader);
             String s;
             while ((s = bufferedReader.readLine()) != null) {
-                String[] keyAndValue = s.split(" ");
-                if (keyAndValue.length != 2)
-                    continue;
-
-                String key = keyAndValue[0];//多于一个字的字符串
-                String value = keyAndValue[1];//字符串的拼音
-                char[] keys = key.toCharArray();
-
-                Trie currentTrie = this;
-                for (int i = 0; i < keys.length; i++) {
-                    String hexString = Integer.toHexString(keys[i]).toUpperCase();
-
-                    Trie trieParent = currentTrie.get(hexString);
-                    if (trieParent == null) {//如果没有此值,直接put进去一个空对象
-                        currentTrie.put(hexString, new Trie());
-                        trieParent = currentTrie.get(hexString);
-                    }
-                    Trie trie = trieParent.getNextTire();//获取此对象的下一个
-
-                    if (keys.length - 1 == i) {//最后一个字了,需要把拼音写进去
-                        trieParent.pinyin = value;
-                        break;//此行其实并没有意义
-                    }
-
-                    if (trie == null) {
-                        if (keys.length - 1 != i) {
-                            //不是最后一个字,写入这个字的nextTrie,并匹配下一个
-                            Trie subTrie = new Trie();
-                            trieParent.setNextTire(subTrie);
-                            subTrie.put(Integer.toHexString(keys[i + 1]).toUpperCase(), new Trie());
-                            currentTrie = subTrie;
-                        }
-                    } else {
-                        currentTrie = trie;
-                    }
-
-                }
+                loadMultiPinyinExtend(s);
             }
         } finally {
             if (inputStreamReader != null)
@@ -128,6 +93,53 @@ public class Trie {
             File userMultiPinyinFile = new File(path);
             if (userMultiPinyinFile.exists()) {
                 loadMultiPinyin(new FileInputStream(userMultiPinyinFile));
+            }
+        }
+    }
+
+    /**
+     * 加载用户自定义的单个词，示例：䓬 (zhuo4)
+     * @param s
+     */
+    public void loadMultiPinyinExtend(String s) {
+        if (s == null || Objects.equals(s, "")) {
+            return;
+        }
+        String[] keyAndValue = s.split(" ");
+        if (keyAndValue.length != 2) {
+            return;
+        }
+
+        String key = keyAndValue[0];//多于一个字的字符串
+        String value = keyAndValue[1];//字符串的拼音
+        char[] keys = key.toCharArray();
+
+        Trie currentTrie = this;
+        for (int i = 0; i < keys.length; i++) {
+            String hexString = Integer.toHexString(keys[i]).toUpperCase();
+
+            Trie trieParent = currentTrie.get(hexString);
+            if (trieParent == null) {//如果没有此值,直接put进去一个空对象
+                currentTrie.put(hexString, new Trie());
+                trieParent = currentTrie.get(hexString);
+            }
+            Trie trie = trieParent.getNextTire();//获取此对象的下一个
+
+            if (keys.length - 1 == i) {//最后一个字了,需要把拼音写进去
+                trieParent.pinyin = value;
+                break;//此行其实并没有意义
+            }
+
+            if (trie == null) {
+                if (keys.length - 1 != i) {
+                    //不是最后一个字,写入这个字的nextTrie,并匹配下一个
+                    Trie subTrie = new Trie();
+                    trieParent.setNextTire(subTrie);
+                    subTrie.put(Integer.toHexString(keys[i + 1]).toUpperCase(), new Trie());
+                    currentTrie = subTrie;
+                }
+            } else {
+                currentTrie = trie;
             }
         }
     }
