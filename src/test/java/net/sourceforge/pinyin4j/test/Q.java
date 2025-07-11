@@ -1,11 +1,13 @@
 package net.sourceforge.pinyin4j.test;
 
 import junit.framework.TestCase;
+import net.sourceforge.pinyin4j.GlobalTrie;
 import net.sourceforge.pinyin4j.PinyinHelper;
 import net.sourceforge.pinyin4j.format.HanyuPinyinOutputFormat;
 import net.sourceforge.pinyin4j.format.HanyuPinyinToneType;
 import net.sourceforge.pinyin4j.format.HanyuPinyinVCharType;
 import net.sourceforge.pinyin4j.multipinyin.MultiPinyinConfig;
+import net.sourceforge.pinyin4j.multipinyin.Trie;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -48,5 +50,14 @@ public class Q extends TestCase {
         }
         bufferedWriter.flush();
         bufferedWriter.close();
+    }
+
+    public void testGlobalTrie() throws Exception {
+        System.out.println(PinyinHelper.toHanYuPinyinString("刘一波", outputFormat, ",", false));
+        System.out.println("第一次：" + PinyinHelper.toHanYuPinyinString("䓬", outputFormat, ",", false));
+        Trie trie = GlobalTrie.getTrie();
+        trie.loadMultiPinyinExtend("䓬 (zhuo4)");
+        System.out.println("第二次：" + PinyinHelper.toHanYuPinyinString("䓬", outputFormat, ",", false));
+
     }
 }
