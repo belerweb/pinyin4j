@@ -130,6 +130,10 @@ public class Trie {
                 loadMultiPinyin(new FileInputStream(userMultiPinyinFile));
             }
         }
+        InputStream inStream = MultiPinyinConfig.multiPinyinInput;
+        if (inStream != null) {
+          loadMultiPinyin(inStream);
+        }        
     }
 
     public Trie get(String hexString) {
